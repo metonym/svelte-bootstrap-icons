@@ -3,7 +3,7 @@
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
 
-> Pinterest Gestalt SVG icons as Svelte components.
+> Bootstrap SVG icons as Svelte components.
 
 ## Install
 
