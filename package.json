@@ -1,0 +1,36 @@
+{
+  "name": "svelte-bootstrap-icons",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Pinterest Gestalt SVG icons as Svelte components",
+  "author": "Eric Liu (https://github.com/metonym)",
+  "svelte": "lib/index.js",
+  "main": "lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node build"
+  },
+  "peerDependencies": {
+    "svelte": "^3.20.x"
+  },
+  "devDependencies": {
+    "bootstrap-icons": "1.0.0-alpha3",
+    "svg-to-svelte": "^0.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metonym/svelte-bootstrap-icons.git"
+  },
+  "homepage": "https://github.com/metonym/svelte-bootstrap-icons",
+  "bugs": "https://github.com/metonym/svelte-bootstrap-icons/issues",
+  "keywords": [
+    "svelte",
+    "svelte component",
+    "gestalt",
+    "icon",
+    "svg"
+  ],
+  "files": [
+    "lib"
+  ]
+}
