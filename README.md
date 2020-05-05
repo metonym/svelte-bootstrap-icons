@@ -3,7 +3,7 @@
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
 
-> Bootstrap SVG icons as Svelte components.
+> [Bootstrap SVG icons](https://github.com/twbs/icons) as Svelte components.
 
 ## Install
 
