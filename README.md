@@ -5,7 +5,11 @@
 
 > [Bootstrap SVG icons](https://github.com/twbs/icons) as Svelte components.
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
+
 ## Install
+
+This library requires svelte version 3.20.x or greater due to use of the `$$restProps` API.
 
 ```bash
 yarn add -D svelte-bootstrap-icons
@@ -15,10 +19,10 @@ yarn add -D svelte-bootstrap-icons
 
 ```html
 <script>
-  import Ad from "svelte-bootstrap-icons/lib/Ad";
+  import Alarm from "svelte-bootstrap-icons/lib/Alarm";
 </script>
 
-<Ad />
+<Alarm />
 ```
 
 Refer to [docs/README.md](docs/README.md) for a full list of supported icons.
