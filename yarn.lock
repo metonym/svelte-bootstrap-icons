@@ -7,20 +7,20 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.3.tgz#9c088679876f374eb5983f150d4787aa6fb32d7e"
   integrity sha512-FvUupuM3rlRsRtCN+fDudtmytGO6iHJuuRKS1Ss0pG5z8oX0diNEw94UEL7hgDbpN94rgaK5R7sWm6RrSkZuAQ==
 
-bootstrap-icons@1.0.0-alpha3:
-  version "1.0.0-alpha3"
-  resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.0.0-alpha3.tgz#413171e88b79315e712e6ab65601f64b1735d566"
-  integrity sha512-UO++43jb/qlWVsC31WkHOjFsTihJkSz0wngnUS+P1ImcCMTqDJqDHySld+hpkzxi+q6fL8iom7nfT3ApAxZ6cQ==
+bootstrap-icons@^1.0.0-alpha5:
+  version "1.0.0-alpha5"
+  resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.0.0-alpha5.tgz#24aec53f4097e23a7e05c964a55033ed12dab23c"
+  integrity sha512-sQp4UESHOpN7UlkEUJmY4G8gmU4beTCv24azmOtN1vMSWTOuUZttB0269RD93JIjd4KmWb93MJaXjC6cAV5jiQ==
 
 svg-parser@^2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
   integrity sha512-e4hG1hRwoOdRb37cIMSgzNsxyzKfayW6VOflrwvR+/bzrkyxY/31WkbgnQpgtrNp1SdpJvpUAGTa/ZoiPNDuRQ==
 
-svg-to-svelte@^0.3.5:
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-0.3.5.tgz#c9accb49ebeccaf213ce28fe1cb64447cd9f278c"
-  integrity sha512-tnO/w0aCxH+GPhZ23HbrGTJ86cMpUo4Ocy3GJaoyOQbYtKsWsbqSnPGIgNZa00Yz13mACThAdmpF0qElOWxT2w==
+svg-to-svelte@^0.3.8:
+  version "0.3.8"
+  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-0.3.8.tgz#ac9685d1fc7c8a7264ed999ab2de9447dedd3de4"
+  integrity sha512-UR01/sQAh6y9fsKkdSKtcf3Aby2In2UcbHVrVDe6HCNbT9ELyTC0GZcS5fJY1wPOHi/gOzwOz4auXCj65WdJZA==
   dependencies:
     svg-parser "^2.0.4"
     unist-util-visit "^2.0.2"
