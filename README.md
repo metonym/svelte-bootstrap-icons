@@ -7,6 +7,8 @@
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
 
+## [Icon Preview](https://metonym.github.io/svelte-bootstrap-icons/)
+
 ## Install
 
 This library requires svelte version 3.20.x or greater due to use of the `$$restProps` API.
