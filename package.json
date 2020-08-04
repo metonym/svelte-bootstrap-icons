@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "bootstrap-icons": "^1.0.0-alpha5",
-    "svg-to-svelte": "^0.3.8"
+    "svg-to-svelte": "0.3.7"
   },
   "repository": {
     "type": "git",
