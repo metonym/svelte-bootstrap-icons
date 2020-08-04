@@ -17,10 +17,10 @@ svg-parser@^2.0.4:
   resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
   integrity sha512-e4hG1hRwoOdRb37cIMSgzNsxyzKfayW6VOflrwvR+/bzrkyxY/31WkbgnQpgtrNp1SdpJvpUAGTa/ZoiPNDuRQ==
 
-svg-to-svelte@^0.3.8:
-  version "0.3.8"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-0.3.8.tgz#ac9685d1fc7c8a7264ed999ab2de9447dedd3de4"
-  integrity sha512-UR01/sQAh6y9fsKkdSKtcf3Aby2In2UcbHVrVDe6HCNbT9ELyTC0GZcS5fJY1wPOHi/gOzwOz4auXCj65WdJZA==
+svg-to-svelte@0.3.7:
+  version "0.3.7"
+  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-0.3.7.tgz#3bf5468929e287b3a71df1fa788237cd0fa61dea"
+  integrity sha512-L701gVjYKIWX4D/6JEgy6ldPiTY4cwSfSQPOgIC7bJMetfV6XAT6Jl5+nFBCRM7xRIklcD997k+wXK63LJUveA==
   dependencies:
     svg-parser "^2.0.4"
     unist-util-visit "^2.0.2"
