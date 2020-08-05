@@ -12,59 +12,41 @@
   $: iconKeys = Object.keys(icons);
 </script>
 
-<style>
-  main {
-    position: relative;
-    max-width: 36rem;
-    padding: 1rem;
-    margin: 0 auto;
-  }
+<div class="clearfix mb-6">
+  <div class="col-6 float-left px-1">
+    <h1 class="mb-3">svelte-bootstrap-icons</h1>
+    <Navigation.TabNav>
+      <Navigation.TabNavItem
+        current={tabIndexInstall === 0}
+        on:click={(e) => {
+          e.preventDefault();
+          tabIndexInstall = 0;
+        }}>
+        yarn
+      </Navigation.TabNavItem>
+      <Navigation.TabNavItem
+        current={tabIndexInstall === 1}
+        on:click={(e) => {
+          e.preventDefault();
+          tabIndexInstall = 1;
+        }}>
+        npm
+      </Navigation.TabNavItem>
+    </Navigation.TabNav>
+    <Box.Box class="d-flex">
+      <pre class="d-flex flex-1">
+        <code class="p-2">{codeInstall}</code>
+      </pre>
+      <Copy text={codeInstall} />
+    </Box.Box>
+  </div>
+</div>
 
-  .icons {
-    position: relative;
-    max-width: 82.5rem;
-    padding: 1rem;
-    margin: 0 auto;
-  }
-
-  code {
-    padding: 1rem;
-  }
-</style>
-
-<main>
-  <h1 class="mb-3">svelte-bootstrap-icons</h1>
-  <Navigation.TabNav>
-    <Navigation.TabNavItem
-      current={tabIndexInstall === 0}
-      on:click={(e) => {
-        e.preventDefault();
-        tabIndexInstall = 0;
-      }}>
-      yarn
-    </Navigation.TabNavItem>
-    <Navigation.TabNavItem
-      current={tabIndexInstall === 1}
-      on:click={(e) => {
-        e.preventDefault();
-        tabIndexInstall = 1;
-      }}>
-      npm
-    </Navigation.TabNavItem>
-  </Navigation.TabNav>
-  <Box.Box class="d-flex">
-    <pre class="d-flex flex-1">
-      <code>{codeInstall}</code>
-    </pre>
-    <Copy text={codeInstall} />
-  </Box.Box>
-</main>
-
-<div class="icons d-flex flex-column">
-  <div class="mb-3">{iconKeys.length} total icons</div>
+<div class="d-flex flex-column">
+  <div class="mb-3">{iconKeys.length} icons</div>
   <div class="d-flex flex-wrap">
-    {#each iconKeys as icon}
-      <Box.Box class="p-2 mr-2 mb-2">
+    {#each iconKeys as icon, i (icon)}
+      <Box.Box class="p-2 mr-1 mb-2">
         <div class="mb-1">
           <h6>{icon}</h6>
         </div>
