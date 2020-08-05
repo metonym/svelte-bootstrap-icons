@@ -2,47 +2,19 @@
 # yarn lockfile v1
 
 
-"@types/unist@^2.0.0":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.3.tgz#9c088679876f374eb5983f150d4787aa6fb32d7e"
-  integrity sha512-FvUupuM3rlRsRtCN+fDudtmytGO6iHJuuRKS1Ss0pG5z8oX0diNEw94UEL7hgDbpN94rgaK5R7sWm6RrSkZuAQ==
-
 bootstrap-icons@^1.0.0-alpha5:
   version "1.0.0-alpha5"
   resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.0.0-alpha5.tgz#24aec53f4097e23a7e05c964a55033ed12dab23c"
   integrity sha512-sQp4UESHOpN7UlkEUJmY4G8gmU4beTCv24azmOtN1vMSWTOuUZttB0269RD93JIjd4KmWb93MJaXjC6cAV5jiQ==
 
-svg-parser@^2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
-  integrity sha512-e4hG1hRwoOdRb37cIMSgzNsxyzKfayW6VOflrwvR+/bzrkyxY/31WkbgnQpgtrNp1SdpJvpUAGTa/ZoiPNDuRQ==
+svelte@^3.24.0:
+  version "3.24.0"
+  resolved "https://registry.npmjs.org/svelte/-/svelte-3.24.0.tgz#6565a42c9705796fa66c6abb4fedc09f4323a4a8"
+  integrity sha512-VFXom6EP2DK83kxy4ZlBbaZklSbZIrpNH3oNXlPYHJUuW4q1OuAr3ZoYbfIVTVYPDgrI7Yq0gQcOhDlAtO4qfw==
 
-svg-to-svelte@0.3.7:
-  version "0.3.7"
-  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-0.3.7.tgz#3bf5468929e287b3a71df1fa788237cd0fa61dea"
-  integrity sha512-L701gVjYKIWX4D/6JEgy6ldPiTY4cwSfSQPOgIC7bJMetfV6XAT6Jl5+nFBCRM7xRIklcD997k+wXK63LJUveA==
+svg-to-svelte@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-1.0.0.tgz#39b2c91e6b32dea7373b0c8ef02bacffe30f3c96"
+  integrity sha512-GzTopJxy0UK7dTpdgUB+LAgW6yrbDcyZMyoPcgvqUdAce24k1h+OzYGQANK0KksJvSxyX/+O6UkHsgB+lN83xQ==
   dependencies:
-    svg-parser "^2.0.4"
-    unist-util-visit "^2.0.2"
-
-unist-util-is@^4.0.0:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-4.0.2.tgz#c7d1341188aa9ce5b3cff538958de9895f14a5de"
-  integrity sha512-Ofx8uf6haexJwI1gxWMGg6I/dLnF2yE+KibhD3/diOqY2TinLcqHXCV6OI5gFVn3xQqDH+u0M625pfKwIwgBKQ==
-
-unist-util-visit-parents@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-3.0.2.tgz#d4076af3011739c71d2ce99d05de37d545f4351d"
-  integrity sha512-yJEfuZtzFpQmg1OSCyS9M5NJRrln/9FbYosH3iW0MG402QbdbaB8ZESwUv9RO6nRfLAKvWcMxCwdLWOov36x/g==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    unist-util-is "^4.0.0"
-
-unist-util-visit@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.2.tgz#3843782a517de3d2357b4c193b24af2d9366afb7"
-  integrity sha512-HoHNhGnKj6y+Sq+7ASo2zpVdfdRifhTgX2KTU3B/sO/TTlZchp7E3S4vjRzDJ7L60KmrCPsQkVK3lEF3cz36XQ==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    unist-util-is "^4.0.0"
-    unist-util-visit-parents "^3.0.0"
+    svelte "^3.24.0"
