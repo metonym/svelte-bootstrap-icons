@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-bootstrap-icons@^1.0.0-alpha5:
+bootstrap-icons@1.0.0-alpha5:
   version "1.0.0-alpha5"
-  resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.0.0-alpha5.tgz#24aec53f4097e23a7e05c964a55033ed12dab23c"
+  resolved "https://registry.npmjs.org/bootstrap-icons/-/bootstrap-icons-1.0.0-alpha5.tgz#24aec53f4097e23a7e05c964a55033ed12dab23c"
   integrity sha512-sQp4UESHOpN7UlkEUJmY4G8gmU4beTCv24azmOtN1vMSWTOuUZttB0269RD93JIjd4KmWb93MJaXjC6cAV5jiQ==
 
 svelte@^3.24.0:
