@@ -11,9 +11,9 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 ## Install
 
-This library requires svelte version >=3.20 because it uses `$$restProps`.
+This library requires Svelte version >=3.20 because it uses `$$restProps`.
 
-```bash
+```sh
 yarn add -D svelte-bootstrap-icons
 # OR
 npm -i -D svelte-bootstrap-icons
@@ -44,6 +44,16 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 - on:keydown
 
 ## [Changelog](CHANGELOG.md)
+
+## Development workflow
+
+Svelte components are generated from "bootstrap-icons" SVG files using [svg-to-svelte](https://github.com/metonym/svg-to-svelte).
+
+A single script ([build.js](build.js)) specifies the input and output folders.
+
+The generated Svelte components are located in the `lib` folder, which is ignored by Git but published to NPM.
+
+Documentation is generated using the list of icon module names from the source library (see [ICON_INDEX.md](ICON_INDEX.md)).
 
 ## License
 

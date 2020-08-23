@@ -1,6 +1,5 @@
 const { generateFromFolder } = require("svg-to-svelte");
 const fs = require("fs");
-const path = require("path");
 const { name, devDependencies } = require("./package.json");
 
 async function build() {
