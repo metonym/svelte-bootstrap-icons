@@ -10,9 +10,6 @@
   "scripts": {
     "prepack": "node build"
   },
-  "peerDependencies": {
-    "svelte": "^3.20.x"
-  },
   "devDependencies": {
     "bootstrap-icons": "1.0.0-alpha5",
     "svg-to-svelte": "1.0.0"
