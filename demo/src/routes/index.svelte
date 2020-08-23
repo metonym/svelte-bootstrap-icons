@@ -15,6 +15,7 @@
 <div class="clearfix mb-6">
   <div class="col-6 float-left px-1">
     <h1 class="mb-3">svelte-bootstrap-icons</h1>
+    <h2 class="mb-2">Install</h2>
     <Navigation.TabNav>
       <Navigation.TabNavItem
         current={tabIndexInstall === 0}
@@ -35,14 +36,32 @@
     </Navigation.TabNav>
     <Box.Box class="d-flex">
       <pre class="d-flex flex-1">
-        <code class="p-2">{codeInstall}</code>
+        <code class="p-3">{codeInstall}</code>
       </pre>
       <Copy text={codeInstall} />
     </Box.Box>
   </div>
 </div>
 
+<div class="clearfix mb-6">
+  <div class="col-6 float-left px-1">
+    <h2 class="mb-2">Usage</h2>
+    <Box.Box class="d-flex">
+      <pre class="d-flex flex-1">
+        <code class="p-3">
+          {`<script>
+  import Alarm from "svelte-bootstrap-icons/lib/Alarm";
+<\/script>
+        
+<Alarm />`}
+        </code>
+      </pre>
+    </Box.Box>
+  </div>
+</div>
+
 <div class="d-flex flex-column">
+  <h2 class="mb-2">Available icons</h2>
   <div class="mb-3">{iconKeys.length} icons</div>
   <div class="d-flex flex-wrap">
     {#each iconKeys as icon, i (icon)}

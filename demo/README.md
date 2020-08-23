@@ -21,7 +21,7 @@ cd demo/
 yarn link "svelte-bootstrap-icons"
 ```
 
-Install the app dependencies and start it in development mode:
+Install the dependencies and start it in development mode:
 
 ```sh
 yarn install
@@ -30,11 +30,11 @@ yarn develop
 
 ## Build
 
-To build the app for production, run `yarn build`. This executes the `sapper export` which exports the app as a static website.
+Run `yarn build` to build the app for production. This executes the `sapper export` script, which exports the app as a static website.
 
 ## Deploy
 
-Deploy the app to GitHub Pages:
+Deploy the app to [GitHub Pages](https://pages.github.com/):
 
 ```sh
 npx gh-pages -d public/svelte-bootstrap-icons

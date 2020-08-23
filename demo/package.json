@@ -6,8 +6,7 @@
     "build": "sapper export --basepath svelte-bootstrap-icons"
   },
   "dependencies": {
-    "polka": "next",
-    "sirv": "^0.4.0"
+    "polka": "next"
   },
   "devDependencies": {
     "@metonym/sapper": "^0.27.12",
