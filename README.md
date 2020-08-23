@@ -11,10 +11,12 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 ## Install
 
-This library requires svelte version 3.20.x or greater due to use of the `$$restProps` API.
+This library requires svelte version >=3.20 because it uses `$$restProps`.
 
 ```bash
 yarn add -D svelte-bootstrap-icons
+# OR
+npm -i -D svelte-bootstrap-icons
 ```
 
 ## Usage
@@ -27,7 +29,7 @@ yarn add -D svelte-bootstrap-icons
 <Alarm />
 ```
 
-Refer to [docs/README.md](docs/README.md) for a full list of supported icons.
+Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 
 ## API
 

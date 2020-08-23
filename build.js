@@ -1,35 +1,31 @@
-const { cleanDir, generateFromFolder } = require("svg-to-svelte");
+const { generateFromFolder } = require("svg-to-svelte");
 const fs = require("fs");
 const path = require("path");
-const pkg = require("./package.json");
+const { name, devDependencies } = require("./package.json");
 
 async function build() {
-  const { moduleNames } = await generateFromFolder(
-    "node_modules/bootstrap-icons/icons",
-    "lib",
-    {
-      clean: true,
-    }
-  );
+  const input = "node_modules/bootstrap-icons/icons";
+  const output = "lib";
+  const { moduleNames } = await generateFromFolder(input, output, {
+    clean: true,
+  });
 
-  await cleanDir("docs");
-
-  const docs = [
-    "# docs\n",
-    `> ${moduleNames.length} icons from bootstrap-icons@${pkg.devDependencies["bootstrap-icons"]}.\n`,
-    "## Usage\n",
-    "```html",
-    `<script>
-  import Icon from "svelte-bootstrap-icons/lib/{ModuleName}";
+  const index = `# Icon Index\n
+> ${moduleNames.length} icons from ${name}@${
+    devDependencies["bootstrap-icons"]
+  }.\n
+## Usage\n
+\`\`\`html
+<script>
+  import Icon from "${name}/lib/{ModuleName}";
 </script>
 
-<Icon />`,
-    "```\n",
-    "## List of icons by `ModuleName`\n",
-    moduleNames.map((moduleName) => `- ${moduleName}`).join("\n"),
-  ].join("\n");
+<Icon />
+\`\`\`\n
+## Icons by \`ModuleName\`\n
+${moduleNames.map((name) => `- ${name}`).join("\n")}`;
 
-  fs.writeFileSync("docs/README.md", docs);
+  fs.writeFileSync("ICON_INDEX.md", index);
 }
 
 build();

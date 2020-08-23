@@ -1,6 +1,6 @@
-# docs
+# Icon Index
 
-> 1030 icons from bootstrap-icons@^1.0.0-alpha5.
+> 1030 icons from svelte-bootstrap-icons@1.0.0-alpha5.
 
 ## Usage
 
@@ -12,7 +12,7 @@
 <Icon />
 ```
 
-## List of icons by `ModuleName`
+## Icons by `ModuleName`
 
 - AlarmFill
 - Alarm
