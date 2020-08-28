@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1030 icons from svelte-bootstrap-icons@1.0.0-alpha5.
+> 1120 icons from svelte-bootstrap-icons@1.0.0.
 
 ## Usage
 
@@ -107,6 +107,8 @@
 - Badge4k
 - Badge8kFill
 - Badge8k
+- BadgeAdFill
+- BadgeAd
 - BadgeCcFill
 - BadgeCc
 - BadgeHdFill
@@ -115,10 +117,15 @@
 - BadgeTm
 - BadgeVoFill
 - BadgeVo
+- BagCheckFill
 - BagCheck
+- BagDashFill
 - BagDash
 - BagFill
+- BagPlusFill
 - BagPlus
+- BagXFill
+- BagX
 - Bag
 - BarChartFill
 - BarChartLineFill
@@ -147,10 +154,19 @@
 - BookFill
 - BookHalf
 - Book
+- BookmarkCheckFill
 - BookmarkCheck
+- BookmarkDashFill
 - BookmarkDash
 - BookmarkFill
+- BookmarkHeartFill
+- BookmarkHeart
+- BookmarkPlusFill
 - BookmarkPlus
+- BookmarkStarFill
+- BookmarkStar
+- BookmarkXFill
+- BookmarkX
 - Bookmark
 - BookmarksFill
 - Bookmarks
@@ -194,6 +210,7 @@
 - BrightnessLow
 - BroadcastPin
 - Broadcast
+- BrushFill
 - Brush
 - BucketFill
 - Bucket
@@ -222,6 +239,8 @@
 - CalendarRange
 - CalendarWeekFill
 - CalendarWeek
+- CalendarXFill
+- CalendarX
 - Calendar
 - Calendar2CheckFill
 - Calendar2Check
@@ -242,6 +261,8 @@
 - Calendar2Range
 - Calendar2WeekFill
 - Calendar2Week
+- Calendar2XFill
+- Calendar2X
 - Calendar2
 - Calendar3EventFill
 - Calendar3Event
@@ -287,10 +308,15 @@
 - CaretUpSquareFill
 - CaretUpSquare
 - CaretUp
+- CartCheckFill
 - CartCheck
+- CartDashFill
 - CartDash
 - CartFill
+- CartPlusFill
 - CartPlus
+- CartXFill
+- CartX
 - Cart
 - Cart2
 - Cart3
@@ -368,6 +394,7 @@
 - ClipboardData
 - ClipboardMinus
 - ClipboardPlus
+- ClipboardX
 - Clipboard
 - ClockFill
 - ClockHistory
@@ -400,6 +427,7 @@
 - ColumnsGap
 - Columns
 - Command
+- CompassFill
 - Compass
 - ConeStriped
 - Cone
@@ -413,6 +441,7 @@
 - CreditCardFill
 - CreditCard
 - Crop
+- CupFill
 - CupStraw
 - Cup
 - CursorFill
@@ -507,6 +536,7 @@
 - FileCode
 - FileDiffFill
 - FileDiff
+- FileEarmarkArrowDownFill
 - FileEarmarkArrowDown
 - FileEarmarkArrowUpFill
 - FileEarmarkArrowUp
@@ -520,23 +550,57 @@
 - FileEarmarkCode
 - FileEarmarkDiffFill
 - FileEarmarkDiff
+- FileEarmarkEaselFill
+- FileEarmarkEasel
 - FileEarmarkFill
+- FileEarmarkFontFill
+- FileEarmarkFont
+- FileEarmarkImageFill
+- FileEarmarkImage
+- FileEarmarkLockFill
+- FileEarmarkLock
+- FileEarmarkLock2Fill
+- FileEarmarkLock2
 - FileEarmarkMedicalFill
 - FileEarmarkMedical
 - FileEarmarkMinusFill
 - FileEarmarkMinus
+- FileEarmarkMusicFill
+- FileEarmarkMusic
+- FileEarmarkPersonFill
+- FileEarmarkPerson
+- FileEarmarkPlayFill
+- FileEarmarkPlay
 - FileEarmarkPlusFill
 - FileEarmarkPlus
+- FileEarmarkPostFill
+- FileEarmarkPost
+- FileEarmarkRichtextFill
+- FileEarmarkRichtext
 - FileEarmarkRuledFill
 - FileEarmarkRuled
+- FileEarmarkSlidesFill
+- FileEarmarkSlides
 - FileEarmarkSpreadsheetFill
 - FileEarmarkSpreadsheet
 - FileEarmarkTextFill
 - FileEarmarkText
+- FileEarmarkXFill
+- FileEarmarkX
 - FileEarmarkZipFill
 - FileEarmarkZip
 - FileEarmark
+- FileEaselFill
+- FileEasel
 - FileFill
+- FileFontFill
+- FileFont
+- FileImageFill
+- FileImage
+- FileLockFill
+- FileLock
+- FileLock2Fill
+- FileLock2
 - FileMedicalFill
 - FileMedical
 - FileMinusFill
@@ -545,6 +609,8 @@
 - FileMusic
 - FilePersonFill
 - FilePerson
+- FilePlayFill
+- FilePlay
 - FilePlusFill
 - FilePlus
 - FilePostFill
@@ -553,10 +619,14 @@
 - FileRichtext
 - FileRuledFill
 - FileRuled
+- FileSlidesFill
+- FileSlides
 - FileSpreadsheetFill
 - FileSpreadsheet
 - FileTextFill
 - FileText
+- FileXFill
+- FileX
 - FileZipFill
 - FileZip
 - File
@@ -581,6 +651,7 @@
 - FolderPlus
 - FolderSymlinkFill
 - FolderSymlink
+- FolderX
 - Folder
 - Folder2Open
 - Folder2
@@ -597,7 +668,9 @@
 - GearWide
 - Gear
 - Gem
+- GeoAltFill
 - GeoAlt
+- GeoFill
 - Geo
 - GiftFill
 - Gift
@@ -679,6 +752,7 @@
 - JournalPlus
 - JournalRichtext
 - JournalText
+- JournalX
 - Journal
 - Journals
 - Joystick
@@ -726,6 +800,7 @@
 - Lock
 - Mailbox
 - Mailbox2
+- MapFill
 - Map
 - MarkdownFill
 - Markdown
@@ -780,7 +855,9 @@
 - Pause
 - PeaceFill
 - Peace
+- PenFill
 - Pen
+- PencilFill
 - PencilSquare
 - Pencil
 - PentagonFill
@@ -802,10 +879,13 @@
 - PersonPlusFill
 - PersonPlus
 - PersonSquare
+- PersonXFill
+- PersonX
 - Person
 - PhoneFill
 - PhoneLandscapeFill
 - PhoneLandscape
+- PhoneVibrate
 - Phone
 - PieChartFill
 - PieChart
@@ -813,6 +893,7 @@
 - Pip
 - PlayFill
 - Play
+- PlugFill
 - Plug
 - PlusCircleFill
 - PlusCircle
@@ -846,6 +927,7 @@
 - Reply
 - RssFill
 - Rss
+- Scissors
 - Screwdriver
 - Search
 - SegmentedNav
@@ -858,6 +940,7 @@
 - ShieldFillExclamation
 - ShieldFillMinus
 - ShieldFillPlus
+- ShieldFillX
 - ShieldFill
 - ShieldLockFill
 - ShieldLock
@@ -866,6 +949,7 @@
 - ShieldShaded
 - ShieldSlashFill
 - ShieldSlash
+- ShieldX
 - Shield
 - ShiftFill
 - Shift
@@ -908,6 +992,7 @@
 - SortUpAlt
 - SortUp
 - Soundwave
+- SpeakerFill
 - Speaker
 - Spellcheck
 - SquareFill
@@ -966,6 +1051,7 @@
 - TextIndentLeft
 - TextIndentRight
 - TextLeft
+- TextParagraph
 - TextRight
 - TextareaResize
 - TextareaT
@@ -990,6 +1076,7 @@
 - TriangleFill
 - TriangleHalf
 - Triangle
+- TrophyFill
 - Trophy
 - TruckFlatbed
 - Truck
@@ -1003,7 +1090,9 @@
 - TypeStrikethrough
 - TypeUnderline
 - Type
+- UiChecksGrid
 - UiChecks
+- UiRadiosGrid
 - UiRadios
 - Union
 - UnlockFill
@@ -1011,6 +1100,7 @@
 - UpcScan
 - Upc
 - Upload
+- VectorPen
 - ViewList
 - ViewStacked
 - Voicemail
