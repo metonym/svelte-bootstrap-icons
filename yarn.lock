@@ -12,9 +12,9 @@ svelte@^3.24.0:
   resolved "https://registry.npmjs.org/svelte/-/svelte-3.24.0.tgz#6565a42c9705796fa66c6abb4fedc09f4323a4a8"
   integrity sha512-VFXom6EP2DK83kxy4ZlBbaZklSbZIrpNH3oNXlPYHJUuW4q1OuAr3ZoYbfIVTVYPDgrI7Yq0gQcOhDlAtO4qfw==
 
-svg-to-svelte@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-1.0.0.tgz#39b2c91e6b32dea7373b0c8ef02bacffe30f3c96"
-  integrity sha512-GzTopJxy0UK7dTpdgUB+LAgW6yrbDcyZMyoPcgvqUdAce24k1h+OzYGQANK0KksJvSxyX/+O6UkHsgB+lN83xQ==
+svg-to-svelte@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-2.0.0.tgz#0069ccd8dca85fb2fc233eac3b56c54235425c66"
+  integrity sha512-zKVAPwmZvqgu04ulR/92HILIt3LAGP+RZTGFDsqsBXEw/qABGqhQFlkmqNAtRq4iV5iVRb+O6nQX0CgoVzwatw==
   dependencies:
     svelte "^3.24.0"
