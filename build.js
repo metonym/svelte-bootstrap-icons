@@ -1,30 +1,15 @@
-const { generateFromFolder } = require("svg-to-svelte");
+const { generateFromFolder, generateIndex } = require("svg-to-svelte");
 const fs = require("fs");
 const { name, devDependencies } = require("./package.json");
 
-async function build() {
-  const input = "node_modules/bootstrap-icons/icons";
-  const output = "lib";
-  const { moduleNames } = await generateFromFolder(input, output, {
-    clean: true,
+(async () => {
+  const lib = "bootstrap-icons";
+  const { moduleNames } = await generateFromFolder(`node_modules/${lib}/icons`);
+
+  await generateIndex({
+    moduleNames,
+    pkgName: name,
+    pkgVersion: devDependencies[lib],
+    outputFile: "ICON_INDEX.md",
   });
-
-  const index = `# Icon Index\n
-> ${moduleNames.length} icons from ${name}@${
-    devDependencies["bootstrap-icons"]
-  }.\n
-## Usage\n
-\`\`\`html
-<script>
-  import Icon from "${name}/lib/{ModuleName}";
-</script>
-
-<Icon />
-\`\`\`\n
-## Icons by \`ModuleName\`\n
-${moduleNames.map((name) => `- ${name}`).join("\n")}`;
-
-  fs.writeFileSync("ICON_INDEX.md", index);
-}
-
-build();
+})();
