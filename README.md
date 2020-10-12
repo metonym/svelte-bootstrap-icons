@@ -16,7 +16,7 @@ This library requires Svelte version >=3.20 because it uses `$$restProps`.
 ```sh
 yarn add -D svelte-bootstrap-icons
 # OR
-npm -i -D svelte-bootstrap-icons
+npm i -D svelte-bootstrap-icons
 ```
 
 ## Usage
