@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-bootstrap-icons@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/bootstrap-icons/-/bootstrap-icons-1.0.0.tgz#90ed08c9503cef95184972420fbea7b09780bd83"
-  integrity sha512-PaQm3VtSqbUnWuyqGmFJG5iF9UMieDuk8raPOmKOtKeyWyiVshgLoKa+9EWGolGU/nvyBLEBWhZoQqhu9ccNBg==
+bootstrap-icons@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/bootstrap-icons/-/bootstrap-icons-1.1.0.tgz#8f2e268a563e3056723171dfd1c5f78a8c3e1677"
+  integrity sha512-z5wWjw+SGLdDdP9R5qqEYSi+yRJOeOwlGW83VNftMO+jIgW/rtxHk3LI8sRxPYZEB0G+btJaEiUKLKsx3Mlycg==
 
 svelte@^3.24.0:
   version "3.24.0"

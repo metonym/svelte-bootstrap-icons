@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1120 icons from svelte-bootstrap-icons@1.0.0.
+> 1151 icons from svelte-bootstrap-icons@1.1.0.
 
 ## Usage
 
@@ -492,15 +492,28 @@
 - Egg
 - EjectFill
 - Eject
+- EmojiAngryFill
 - EmojiAngry
+- EmojiDizzyFill
 - EmojiDizzy
+- EmojiExpressionlessFill
 - EmojiExpressionless
+- EmojiFrownFill
 - EmojiFrown
+- EmojiHeartEyesFill
+- EmojiHeartEyes
+- EmojiLaughingFill
 - EmojiLaughing
+- EmojiNeutralFill
 - EmojiNeutral
+- EmojiSmileFill
+- EmojiSmileUpsideDownFill
 - EmojiSmileUpsideDown
 - EmojiSmile
+- EmojiSunglassesFill
 - EmojiSunglasses
+- EmojiWinkFill
+- EmojiWink
 - EnvelopeFill
 - EnvelopeOpenFill
 - EnvelopeOpen
@@ -526,6 +539,8 @@
 - FileArrowDown
 - FileArrowUpFill
 - FileArrowUp
+- FileBarGraphFill
+- FileBarGraph
 - FileBinaryFill
 - FileBinary
 - FileBreakFill
@@ -540,6 +555,8 @@
 - FileEarmarkArrowDown
 - FileEarmarkArrowUpFill
 - FileEarmarkArrowUp
+- FileEarmarkBarGraphFill
+- FileEarmarkBarGraph
 - FileEarmarkBinaryFill
 - FileEarmarkBinary
 - FileEarmarkBreakFill
@@ -552,6 +569,8 @@
 - FileEarmarkDiff
 - FileEarmarkEaselFill
 - FileEarmarkEasel
+- FileEarmarkExcelFill
+- FileEarmarkExcel
 - FileEarmarkFill
 - FileEarmarkFontFill
 - FileEarmarkFont
@@ -575,6 +594,8 @@
 - FileEarmarkPlus
 - FileEarmarkPostFill
 - FileEarmarkPost
+- FileEarmarkPptFill
+- FileEarmarkPpt
 - FileEarmarkRichtextFill
 - FileEarmarkRichtext
 - FileEarmarkRuledFill
@@ -585,6 +606,8 @@
 - FileEarmarkSpreadsheet
 - FileEarmarkTextFill
 - FileEarmarkText
+- FileEarmarkWordFill
+- FileEarmarkWord
 - FileEarmarkXFill
 - FileEarmarkX
 - FileEarmarkZipFill
@@ -592,6 +615,8 @@
 - FileEarmark
 - FileEaselFill
 - FileEasel
+- FileExcelFill
+- FileExcel
 - FileFill
 - FileFontFill
 - FileFont
@@ -615,6 +640,8 @@
 - FilePlus
 - FilePostFill
 - FilePost
+- FilePptFill
+- FilePpt
 - FileRichtextFill
 - FileRichtext
 - FileRuledFill
@@ -625,6 +652,8 @@
 - FileSpreadsheet
 - FileTextFill
 - FileText
+- FileWordFill
+- FileWord
 - FileXFill
 - FileX
 - FileZipFill
@@ -745,6 +774,8 @@
 - JournalAlbum
 - JournalArrowDown
 - JournalArrowUp
+- JournalBookmarkFill
+- JournalBookmark
 - JournalCheck
 - JournalCode
 - JournalMedical
