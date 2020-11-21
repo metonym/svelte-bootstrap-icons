@@ -8,7 +8,7 @@
   $: codeInstall =
     tabIndexInstall === 0
       ? "yarn add -D svelte-bootstrap-icons"
-      : "npm -i -D svelte-bootstrap-icons";
+      : "npm i -D svelte-bootstrap-icons";
   $: iconKeys = Object.keys(icons);
 </script>
 
@@ -36,7 +36,8 @@
     </Navigation.TabNav>
     <Box.Box class="d-flex">
       <pre class="d-flex flex-1">
-        <code class="p-3">{codeInstall}</code>
+        <code
+          class="p-3">{codeInstall}</code>
       </pre>
       <Copy text={codeInstall} />
     </Box.Box>
