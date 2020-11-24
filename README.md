@@ -13,7 +13,7 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 This library requires Svelte version >=3.20 because it uses `$$restProps`.
 
-```sh
+```bash
 yarn add -D svelte-bootstrap-icons
 # OR
 npm i -D svelte-bootstrap-icons
@@ -21,15 +21,29 @@ npm i -D svelte-bootstrap-icons
 
 ## Usage
 
-```html
+```svelte
 <script>
-  import Alarm from "svelte-bootstrap-icons/lib/Alarm";
+  import { Alarm, Wrench, ZoomOut } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
+<Wrench />
+<ZoomOut />
 ```
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
+
+### Base import
+
+Use the base import for faster compiling.
+
+```html
+<script>
+  import Alarm from "svelte-bootstrap-icons/lib/Alarm";
+  // OR
+  import Alarm from "svelte-bootstrap-icons/lib/Alarm/Alarm.svelte";
+</script>
+```
 
 ## API
 
@@ -42,6 +56,22 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 - on:mouseenter
 - on:mouseout
 - on:keydown
+
+
+## Rendering icons using `svelte:component`
+
+```svelte
+<script>
+  import * as icons from "svelte-bootstrap-icons";
+</script>
+
+{#each Object.keys(icons) as icon}
+  <div>
+    <svelte:component title="{icon}" this={icons[icon]} />
+    {icon}
+  </div>
+{/each}
+```
 
 ## [Changelog](CHANGELOG.md)
 

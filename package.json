@@ -8,10 +8,15 @@
   "main": "./lib/index.js",
   "sideEffects": false,
   "scripts": {
+    "dev": "rollup -cw",
+    "build": "rollup -c",
+    "deploy": "npx gh-pages -d public",
     "prepack": "node build"
   },
   "devDependencies": {
     "bootstrap-icons": "1.1.0",
+    "rollup": "^2.33.3",
+    "svelte-readme": "^0.4.1",
     "svg-to-svelte": "2.0.0"
   },
   "repository": {
