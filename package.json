@@ -10,13 +10,13 @@
   "scripts": {
     "dev": "rollup -cw",
     "build": "rollup -c",
-    "deploy": "npx gh-pages -d public",
+    "deploy": "npx gh-pages -d dist",
     "prepack": "node build"
   },
   "devDependencies": {
     "bootstrap-icons": "1.1.0",
     "rollup": "^2.33.3",
-    "svelte-readme": "^0.4.1",
+    "svelte-readme": "^1.0.0",
     "svg-to-svelte": "2.0.0"
   },
   "repository": {

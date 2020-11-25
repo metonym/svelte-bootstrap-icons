@@ -7,11 +7,9 @@
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
 
-## [ICON_INDEX.md](ICON_INDEX.md)
-
 ## Install
 
-This library requires Svelte version >=3.20 because it uses `$$restProps`.
+This library requires Svelte version >=3.20.
 
 ```bash
 yarn add -D svelte-bootstrap-icons
