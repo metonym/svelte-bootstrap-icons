@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1151 icons from svelte-bootstrap-icons@1.1.0.
+> 1201 icons from svelte-bootstrap-icons@1.2.1.
 
 ## Usage
 
@@ -471,6 +471,9 @@
 - Dice5
 - Dice6Fill
 - Dice6
+- DiscFill
+- Disc
+- Discord
 - DisplayFill
 - Display
 - DistributeHorizontal
@@ -535,6 +538,7 @@
 - EyeSlash
 - Eye
 - Eyeglasses
+- Facebook
 - FileArrowDownFill
 - FileArrowDown
 - FileArrowUpFill
@@ -703,8 +707,10 @@
 - Geo
 - GiftFill
 - Gift
+- Github
 - Globe
 - Globe2
+- Google
 - GraphDown
 - GraphUp
 - Grid1x2Fill
@@ -770,6 +776,7 @@
 - Info
 - InputCursorText
 - InputCursor
+- Instagram
 - Intersect
 - JournalAlbum
 - JournalArrowDown
@@ -820,6 +827,7 @@
 - Lightning
 - Link45deg
 - Link
+- Linkedin
 - ListCheck
 - ListNested
 - ListOl
@@ -882,6 +890,10 @@
 - PatchPlus
 - PatchQuestionFll
 - PatchQuestion
+- PauseBtnFill
+- PauseBtn
+- PauseCircleFill
+- PauseCircle
 - PauseFill
 - Pause
 - PeaceFill
@@ -922,6 +934,10 @@
 - PieChart
 - PipFill
 - Pip
+- PlayBtnFill
+- PlayBtn
+- PlayCircleFill
+- PlayCircle
 - PlayFill
 - Play
 - PlugFill
@@ -952,6 +968,14 @@
 - Reception2
 - Reception3
 - Reception4
+- RecordBtnFill
+- RecordBtn
+- RecordCircleFill
+- RecordCircle
+- RecordFill
+- Record
+- Record2Fill
+- Record2
 - ReplyAllFill
 - ReplyAll
 - ReplyFill
@@ -995,14 +1019,31 @@
 - Signpost
 - SimFill
 - Sim
+- SkipBackwardBtnFill
+- SkipBackwardBtn
+- SkipBackwardCircleFill
+- SkipBackwardCircle
 - SkipBackwardFill
 - SkipBackward
+- SkipEndBtnFill
+- SkipEndBtn
+- SkipEndCircleFill
+- SkipEndCircle
 - SkipEndFill
 - SkipEnd
+- SkipForwardBtnFill
+- SkipForwardBtn
+- SkipForwardCircleFill
+- SkipForwardCircle
 - SkipForwardFill
 - SkipForward
+- SkipStartBtnFill
+- SkipStartBtn
+- SkipStartCircleFill
+- SkipStartCircle
 - SkipStartFill
 - SkipStart
+- Slack
 - SlashCircleFill
 - SlashCircle
 - SlashSquareFill
@@ -1036,6 +1077,10 @@
 - Stickies
 - StickyFill
 - Sticky
+- StopBtnFill
+- StopBtn
+- StopCircleFill
+- StopCircle
 - StopFill
 - Stop
 - StoplightsFill
@@ -1113,6 +1158,8 @@
 - Truck
 - TvFill
 - Tv
+- Twitch
+- Twitter
 - TypeBold
 - TypeH1
 - TypeH2
@@ -1134,6 +1181,8 @@
 - VectorPen
 - ViewList
 - ViewStacked
+- VinylFill
+- Vinyl
 - Voicemail
 - VolumeDownFill
 - VolumeDown
@@ -1163,5 +1212,6 @@
 - XSquareFill
 - XSquare
 - X
+- Youtube
 - ZoomIn
 - ZoomOut

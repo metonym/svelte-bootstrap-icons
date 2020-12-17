@@ -9,14 +9,14 @@
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
-    "build": "rollup -c",
+    "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
     "prepack": "node build"
   },
   "devDependencies": {
-    "bootstrap-icons": "1.1.0",
-    "rollup": "^2.33.3",
-    "svelte-readme": "^1.0.0",
+    "bootstrap-icons": "1.2.1",
+    "rollup": "^2.35.1",
+    "svelte-readme": "^1.1.0",
     "svg-to-svelte": "2.0.0"
   },
   "repository": {

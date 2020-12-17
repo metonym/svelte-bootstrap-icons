@@ -21,10 +21,11 @@ npm i -D svelte-bootstrap-icons
 
 ```svelte
 <script>
-  import { Alarm, Wrench, ZoomOut } from "svelte-bootstrap-icons";
+  import { Alarm, Github, Wrench, ZoomOut } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
+<Github />
 <Wrench />
 <ZoomOut />
 ```
