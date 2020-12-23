@@ -21,6 +21,7 @@ npm i -D svelte-bootstrap-icons
 
 ## Usage
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import { Alarm, Github, Wrench, ZoomOut } from "svelte-bootstrap-icons";
@@ -31,6 +32,7 @@ npm i -D svelte-bootstrap-icons
 <Wrench />
 <ZoomOut />
 ```
+<!-- prettier-ignore-end -->
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 
@@ -58,9 +60,9 @@ Use the base import for faster compiling.
 - on:mouseout
 - on:keydown
 
-
 ## Usage with svelte:component
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as icons from "svelte-bootstrap-icons";
@@ -73,6 +75,7 @@ Use the base import for faster compiling.
   </div>
 {/each}
 ```
+<!-- prettier-ignore-end -->
 
 ## [Changelog](CHANGELOG.md)
 
