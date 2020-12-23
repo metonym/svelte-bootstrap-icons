@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1201 icons from svelte-bootstrap-icons@1.2.1.
+> 1201 icons from svelte-bootstrap-icons@1.2.2.
 
 ## Usage
 
@@ -880,15 +880,15 @@
 - Outlet
 - Paperclip
 - Paragraph
-- PatchCheckFll
+- PatchCheckFill
 - PatchCheck
-- PatchExclamationFll
+- PatchExclamationFill
 - PatchExclamation
-- PatchMinusFll
+- PatchMinusFill
 - PatchMinus
-- PatchPlusFll
+- PatchPlusFill
 - PatchPlus
-- PatchQuestionFll
+- PatchQuestionFill
 - PatchQuestion
 - PauseBtnFill
 - PauseBtn

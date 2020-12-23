@@ -1,10 +1,7 @@
 import svelteReadme from "svelte-readme";
-import pkg from "./package.json";
 
 export default svelteReadme({
   minify: !process.env.ROLLUP_WATCH,
-  svelte: { immutable: true },
-  prefixUrl: `${pkg.homepage}/tree/master/`,
   style: `
     .code-fence > div {
       display: inline-flex;

@@ -7,6 +7,8 @@
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
 
+<!-- TOC -->
+
 ## Install
 
 This library requires Svelte version >=3.20.
@@ -57,7 +59,7 @@ Use the base import for faster compiling.
 - on:keydown
 
 
-## Rendering icons using `svelte:component`
+## Usage with svelte:component
 
 ```svelte
 <script>
