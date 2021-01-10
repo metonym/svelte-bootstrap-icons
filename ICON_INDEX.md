@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1201 icons from svelte-bootstrap-icons@1.2.2.
+> 1265 icons from svelte-bootstrap-icons@1.3.0.
 
 ## Usage
 
@@ -103,12 +103,16 @@
 - BackspaceReverseFill
 - BackspaceReverse
 - Backspace
+- Badge3dFill
+- Badge3d
 - Badge4kFill
 - Badge4k
 - Badge8kFill
 - Badge8k
 - BadgeAdFill
 - BadgeAd
+- BadgeArFill
+- BadgeAr
 - BadgeCcFill
 - BadgeCc
 - BadgeHdFill
@@ -117,6 +121,10 @@
 - BadgeTm
 - BadgeVoFill
 - BadgeVo
+- BadgeVrFill
+- BadgeVr
+- BadgeWcFill
+- BadgeWc
 - BagCheckFill
 - BagCheck
 - BagDashFill
@@ -174,8 +182,18 @@
 - BootstrapFill
 - BootstrapReboot
 - Bootstrap
+- BorderAll
+- BorderBottom
+- BorderCenter
+- BorderInner
+- BorderLeft
+- BorderMiddle
+- BorderOuter
+- BorderRight
 - BorderStyle
+- BorderTop
 - BorderWidth
+- Border
 - BoundingBoxCircles
 - BoundingBox
 - BoxArrowDownLeft
@@ -447,8 +465,10 @@
 - CursorFill
 - CursorText
 - Cursor
+- DashCircleDotted
 - DashCircleFill
 - DashCircle
+- DashSquareDotted
 - DashSquareFill
 - DashSquare
 - Dash
@@ -521,6 +541,8 @@
 - EnvelopeOpenFill
 - EnvelopeOpen
 - Envelope
+- EraserFill
+- Eraser
 - ExclamationCircleFill
 - ExclamationCircle
 - ExclamationDiamondFill
@@ -537,6 +559,7 @@
 - EyeSlashFill
 - EyeSlash
 - Eye
+- Eyedropper
 - Eyeglasses
 - Facebook
 - FileArrowDownFill
@@ -726,9 +749,13 @@
 - GripHorizontal
 - GripVertical
 - Hammer
+- HandIndexFill
+- HandIndexThumbFill
 - HandIndexThumb
 - HandIndex
+- HandThumbsDownFill
 - HandThumbsDown
+- HandThumbsUpFill
 - HandThumbsUp
 - HandbagFill
 - Handbag
@@ -808,6 +835,8 @@
 - Lamp
 - LaptopFill
 - Laptop
+- LayerBackward
+- LayerForward
 - LayersFill
 - LayersHalf
 - Layers
@@ -823,6 +852,10 @@
 - LayoutThreeColumns
 - LayoutWtf
 - LifePreserver
+- LightbulbFill
+- LightbulbOffFill
+- LightbulbOff
+- Lightbulb
 - LightningFill
 - Lightning
 - Link45deg
@@ -843,6 +876,9 @@
 - Map
 - MarkdownFill
 - Markdown
+- Mask
+- MegaphoneFill
+- Megaphone
 - MenuAppFill
 - MenuApp
 - MenuButtonFill
@@ -858,8 +894,11 @@
 - MinecartLoaded
 - Minecart
 - Moon
+- MouseFill
 - Mouse
+- Mouse2Fill
 - Mouse2
+- Mouse3Fill
 - Mouse3
 - MusicNoteBeamed
 - MusicNoteList
@@ -878,6 +917,10 @@
 - Octagon
 - Option
 - Outlet
+- PaintBucket
+- PaletteFill
+- Palette
+- Palette2
 - Paperclip
 - Paragraph
 - PatchCheckFill
@@ -928,10 +971,15 @@
 - PhoneFill
 - PhoneLandscapeFill
 - PhoneLandscape
+- PhoneVibrateFill
 - PhoneVibrate
 - Phone
 - PieChartFill
 - PieChart
+- PinAngleFill
+- PinAngle
+- PinFill
+- Pin
 - PipFill
 - Pip
 - PlayBtnFill
@@ -942,8 +990,10 @@
 - Play
 - PlugFill
 - Plug
+- PlusCircleDotted
 - PlusCircleFill
 - PlusCircle
+- PlusSquareDotted
 - PlusSquareFill
 - PlusSquare
 - Plus
@@ -982,6 +1032,11 @@
 - Reply
 - RssFill
 - Rss
+- Rulers
+- SaveFill
+- Save
+- Save2Fill
+- Save2
 - Scissors
 - Screwdriver
 - Search
@@ -1066,10 +1121,13 @@
 - Soundwave
 - SpeakerFill
 - Speaker
+- Speedometer
+- Speedometer2
 - Spellcheck
 - SquareFill
 - SquareHalf
 - Square
+- Stack
 - StarFill
 - StarHalf
 - Star
@@ -1098,6 +1156,8 @@
 - SuitSpade
 - Sun
 - Sunglasses
+- SymmetryHorizontal
+- SymmetryVertical
 - Table
 - TabletFill
 - TabletLandscapeFill
@@ -1107,6 +1167,7 @@
 - Tag
 - TagsFill
 - Tags
+- Telegram
 - TelephoneFill
 - TelephoneForwardFill
 - TelephoneForward
@@ -1197,10 +1258,13 @@
 - Wallet
 - Wallet2
 - Watch
+- Whatsapp
 - Wifi1
 - Wifi2
 - WifiOff
 - Wifi
+- WindowDock
+- WindowSidebar
 - Window
 - Wrench
 - XCircleFill
