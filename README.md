@@ -24,11 +24,12 @@ npm i -D svelte-bootstrap-icons
 <!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Alarm, Github, Wrench, ZoomOut } from "svelte-bootstrap-icons";
+  import { Alarm, Github, PaintBucket, Wrench, ZoomOut } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
 <Github />
+<PaintBucket />
 <Wrench />
 <ZoomOut />
 ```
