@@ -1,7 +1,6 @@
 import svelteReadme from "svelte-readme";
 
 export default svelteReadme({
-  minify: !process.env.ROLLUP_WATCH,
   style: `
     .code-fence > div {
       display: inline-flex;

@@ -7,6 +7,10 @@
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
 
+<!-- REPO_URL -->
+
+---
+
 <!-- TOC -->
 
 ## Install
@@ -88,13 +92,13 @@ A single script ([build.js](build.js)) specifies the input and output folders.
 
 The generated Svelte components are located in the `lib` folder, which is ignored by Git but published to NPM.
 
-Documentation is generated using the list of icon module names from the source library (see [ICON_INDEX.md](ICON_INDEX.md)).
+Documentation is generated using the list of icon module names from the source library (see [ICON_INDEX.md](./ICON_INDEX.md)).
 
 ## License
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-bootstrap-icons.svg?color=blue
+[npm]: https://img.shields.io/npm/v/svelte-bootstrap-icons.svg?color=%23ff3e00&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-bootstrap-icons
-[build]: https://travis-ci.com/metonym/svelte-bootstrap-icons.svg?branch=master
+[build]: https://img.shields.io/travis/com/metonym/svelte-bootstrap-icons?color=24a148&style=for-the-badge
 [build-badge]: https://travis-ci.com/metonym/svelte-bootstrap-icons
