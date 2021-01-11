@@ -41,7 +41,9 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 ### Base import
 
-Use the base import for faster compiling during development. Note that unused, direct imports should are still treeshakeable by application bundlers like Rollup or webpack.
+Use the base import for faster compiling during development.
+
+**Note:** even if using direct imports, unused imports are still treeshakeable by application bundlers like Rollup or webpack.
 
 ```html
 <script>
