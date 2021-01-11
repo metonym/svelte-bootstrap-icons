@@ -15,8 +15,6 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 ## Install
 
-This library requires Svelte version >=3.20.
-
 ```bash
 yarn add -D svelte-bootstrap-icons
 # OR
@@ -24,6 +22,8 @@ npm i -D svelte-bootstrap-icons
 ```
 
 ## Usage
+
+Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 <!-- prettier-ignore-start -->
 ```svelte
@@ -39,11 +39,9 @@ npm i -D svelte-bootstrap-icons
 ```
 <!-- prettier-ignore-end -->
 
-Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
-
 ### Base import
 
-Use the base import for faster compiling.
+Use the base import for faster compiling during development. Note that unused, direct imports should are still treeshakeable by application bundlers like Rollup or webpack.
 
 ```html
 <script>
@@ -82,7 +80,9 @@ Use the base import for faster compiling.
 ```
 <!-- prettier-ignore-end -->
 
-## [Changelog](CHANGELOG.md)
+## Changelog
+
+[Changelog](CHANGELOG.md)
 
 ## Development workflow
 
