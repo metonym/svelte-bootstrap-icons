@@ -23,7 +23,7 @@ npm i -D svelte-bootstrap-icons
 
 ## Usage
 
-Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
+Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 
 <!-- prettier-ignore-start -->
 ```svelte
