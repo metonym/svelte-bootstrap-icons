@@ -86,15 +86,9 @@ Use the base import for faster compiling during development.
 
 [Changelog](CHANGELOG.md)
 
-## Development workflow
+## Contributing
 
-Svelte components are generated from "bootstrap-icons" SVG files using [svg-to-svelte](https://github.com/metonym/svg-to-svelte).
-
-A single script ([build.js](build.js)) specifies the input and output folders.
-
-The generated Svelte components are located in the `lib` folder, which is ignored by Git but published to NPM.
-
-Documentation is generated using the list of icon module names from the source library (see [ICON_INDEX.md](./ICON_INDEX.md)).
+See the [contributing guidelines](./CONTRIBUTING.md).
 
 ## License
 

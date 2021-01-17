@@ -1,6 +1,6 @@
-const { generateFromFolder, generateIndex } = require("svg-to-svelte");
 const fs = require("fs");
-const { name, devDependencies } = require("./package.json");
+const { generateFromFolder, generateIndex } = require("svg-to-svelte");
+const { name: pkgName, devDependencies } = require("./package.json");
 
 (async () => {
   const lib = "bootstrap-icons";
@@ -8,7 +8,7 @@ const { name, devDependencies } = require("./package.json");
 
   await generateIndex({
     moduleNames,
-    pkgName: name,
+    pkgName,
     pkgVersion: devDependencies[lib],
     outputFile: "ICON_INDEX.md",
   });
