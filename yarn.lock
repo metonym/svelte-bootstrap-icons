@@ -509,17 +509,17 @@ svelte-readme@^2.2.0:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.24.0:
-  version "3.24.0"
-  resolved "https://registry.npmjs.org/svelte/-/svelte-3.24.0.tgz#6565a42c9705796fa66c6abb4fedc09f4323a4a8"
-  integrity sha512-VFXom6EP2DK83kxy4ZlBbaZklSbZIrpNH3oNXlPYHJUuW4q1OuAr3ZoYbfIVTVYPDgrI7Yq0gQcOhDlAtO4qfw==
+svelte@^3.32.1:
+  version "3.32.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.1.tgz#c4b6e35517d0ed77e652cc8964ef660afa2f70f3"
+  integrity sha512-j1KmD2ZOU0RGq1/STDXjwfh0/eJ/Deh2NXyuz1bpR9eOcz9yImn4CGxXdbSAN7cMTm9a7IyPUIbuBCzu/pXK0g==
 
-svg-to-svelte@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/svg-to-svelte/-/svg-to-svelte-2.0.0.tgz#0069ccd8dca85fb2fc233eac3b56c54235425c66"
-  integrity sha512-zKVAPwmZvqgu04ulR/92HILIt3LAGP+RZTGFDsqsBXEw/qABGqhQFlkmqNAtRq4iV5iVRb+O6nQX0CgoVzwatw==
+svg-to-svelte@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.1.1.tgz#1849d31aecd0a31bbef6815b5f385a0529f4652f"
+  integrity sha512-7xRDedADVAdDg4AHzH78dxEv72d7btbeDCRZzkvFgYNCqTC+zp55t0fzf5hillv2gErORcA5eHsCxRWafIM3eA==
   dependencies:
-    svelte "^3.24.0"
+    svelte "^3.32.1"
 
 terser@^5.0.0:
   version "5.5.0"
