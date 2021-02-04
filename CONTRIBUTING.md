@@ -34,7 +34,7 @@ yarn install
 
 [svg-to-svelte](https://github.com/metonym/svg-to-svelte) makes SVG files from the [bootstrap-icons](https://www.npmjs.com/package/bootstrap-icons) package consumable as Svelte components.
 
-A single script ([build.js](./build.js)) specifies the input and output folders.
+Run `yarn prepack` to generate Svelte components from SVG source files.
 
 The generated Svelte components are located in the `lib` folder, which is ignored by Git but published to NPM.
 
@@ -45,10 +45,6 @@ Documentation is auto-generated using the list of icon module names from the sou
 Run `yarn prepack` once to first build the library.
 
 Then, run `yarn dev` to preview the rendered icons.
-
-### Building
-
-Run `yarn prepack` to build the library.
 
 ## Submitting a Pull Request
 
