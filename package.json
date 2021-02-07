@@ -15,8 +15,8 @@
   },
   "devDependencies": {
     "bootstrap-icons": "1.3.0",
-    "rollup": "^2.36.2",
-    "svelte-readme": "^2.2.0",
+    "rollup": "^2.38.5",
+    "svelte-readme": "^3.0.0",
     "svg-to-svelte": "^2.2.0"
   },
   "repository": {
