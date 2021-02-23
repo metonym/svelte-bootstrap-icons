@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1325 icons from svelte-bootstrap-icons@1.3.0.
+> 1325 icons from svelte-bootstrap-icons@1.4.0.
 
 ## Usage
 
