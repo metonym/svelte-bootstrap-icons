@@ -28,10 +28,11 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 <!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Alarm, Github, PaintBucket, Wrench, ZoomOut } from "svelte-bootstrap-icons";
+  import { Alarm, CloudMoon, Github, PaintBucket, Wrench, ZoomOut } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
+<CloudMoon />
 <Github />
 <PaintBucket />
 <Wrench />

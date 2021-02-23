@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1265 icons from svelte-bootstrap-icons@1.3.0.
+> 1325 icons from svelte-bootstrap-icons@1.3.0.
 
 ## Usage
 
@@ -425,16 +425,48 @@
 - CloudCheck
 - CloudDownloadFill
 - CloudDownload
+- CloudDrizzleFill
+- CloudDrizzle
 - CloudFill
+- CloudFogFill
+- CloudFog
+- CloudFog2Fill
+- CloudFog2
+- CloudHailFill
+- CloudHail
+- CloudHaze1
+- CloudHazeFill
+- CloudHaze
+- CloudHaze2Fill
+- CloudLightningFill
+- CloudLightningRainFill
+- CloudLightningRain
+- CloudLightning
 - CloudMinusFill
 - CloudMinus
+- CloudMoonFill
+- CloudMoon
 - CloudPlusFill
 - CloudPlus
+- CloudRainFill
+- CloudRainHeavyFill
+- CloudRainHeavy
+- CloudRain
 - CloudSlashFill
 - CloudSlash
+- CloudSleetFill
+- CloudSleet
+- CloudSnowFill
+- CloudSnow
+- CloudSunFill
+- CloudSun
 - CloudUploadFill
 - CloudUpload
 - Cloud
+- CloudsFill
+- Clouds
+- CloudyFill
+- Cloudy
 - CodeSlash
 - CodeSquare
 - Code
@@ -788,6 +820,7 @@
 - HouseFill
 - House
 - Hr
+- Hurricane
 - ImageAlt
 - ImageFill
 - Image
@@ -856,6 +889,8 @@
 - LightbulbOffFill
 - LightbulbOff
 - Lightbulb
+- LightningChargeFill
+- LightningCharge
 - LightningFill
 - Lightning
 - Link45deg
@@ -893,6 +928,10 @@
 - Mic
 - MinecartLoaded
 - Minecart
+- Moisture
+- MoonFill
+- MoonStarsFill
+- MoonStars
 - Moon
 - MouseFill
 - Mouse
@@ -1011,6 +1050,7 @@
 - QuestionSquareFill
 - QuestionSquare
 - Question
+- Rainbow
 - ReceiptCutoff
 - Receipt
 - Reception0
@@ -1106,6 +1146,9 @@
 - Slash
 - Sliders
 - Smartwatch
+- Snow
+- Snow2
+- Snow3
 - SortAlphaDownAlt
 - SortAlphaDown
 - SortAlphaUpAlt
@@ -1131,6 +1174,7 @@
 - StarFill
 - StarHalf
 - Star
+- Stars
 - StickiesFill
 - Stickies
 - StickyFill
@@ -1154,8 +1198,13 @@
 - SuitHeart
 - SuitSpadeFill
 - SuitSpade
+- SunFill
 - Sun
 - Sunglasses
+- SunriseFill
+- Sunrise
+- SunsetFill
+- Sunset
 - SymmetryHorizontal
 - SymmetryVertical
 - Table
@@ -1194,6 +1243,10 @@
 - TextareaT
 - Textarea
 - ThermometerHalf
+- ThermometerHigh
+- ThermometerLow
+- ThermometerSnow
+- ThermometerSun
 - Thermometer
 - ThreeDotsVertical
 - ThreeDots
@@ -1204,6 +1257,7 @@
 - Toggles
 - Toggles2
 - Tools
+- Tornado
 - TrashFill
 - Trash
 - Trash2Fill
@@ -1215,8 +1269,10 @@
 - Triangle
 - TrophyFill
 - Trophy
+- TropicalStorm
 - TruckFlatbed
 - Truck
+- Tsunami
 - TvFill
 - Tv
 - Twitch
@@ -1233,6 +1289,8 @@
 - UiChecks
 - UiRadiosGrid
 - UiRadios
+- UmbrellaFill
+- Umbrella
 - Union
 - UnlockFill
 - Unlock
@@ -1258,11 +1316,13 @@
 - Wallet
 - Wallet2
 - Watch
+- Water
 - Whatsapp
 - Wifi1
 - Wifi2
 - WifiOff
 - Wifi
+- Wind
 - WindowDock
 - WindowSidebar
 - Window
