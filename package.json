@@ -34,5 +34,8 @@
   ],
   "files": [
     "lib"
-  ]
+  ],
+  "prettier": {
+    "printWidth": 120
+  }
 }

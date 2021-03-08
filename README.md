@@ -25,7 +25,6 @@ npm i -D svelte-bootstrap-icons
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import { Alarm, CloudMoon, Github, PaintBucket, Wrench, ZoomOut } from "svelte-bootstrap-icons";
@@ -37,14 +36,14 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 <PaintBucket />
 <Wrench />
 <ZoomOut />
+
 ```
-<!-- prettier-ignore-end -->
 
-### Base import
+### Direct import
 
-Use the base import for faster compiling during development.
+Use the direct import for faster compiling during development.
 
-**Note:** even if using direct imports, unused imports are still treeshakeable by application bundlers like Rollup or webpack.
+**Note:** even if using direct imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
 
 ```html
 <script>
@@ -68,7 +67,6 @@ Use the base import for faster compiling during development.
 
 ## Usage with svelte:component
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as icons from "svelte-bootstrap-icons";
@@ -76,12 +74,12 @@ Use the base import for faster compiling during development.
 
 {#each Object.keys(icons) as icon}
   <div>
-    <svelte:component title="{icon}" this={icons[icon]} />
+    <svelte:component this={icons[icon]} title={icon} />
     {icon}
   </div>
 {/each}
+
 ```
-<!-- prettier-ignore-end -->
 
 ## Changelog
 
