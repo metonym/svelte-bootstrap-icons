@@ -5,9 +5,9 @@
 
 > [Bootstrap SVG icons](https://github.com/twbs/icons) as Svelte components.
 
-Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
-
 <!-- REPO_URL -->
+
+Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
 
 ---
 
@@ -93,7 +93,7 @@ See the [contributing guidelines](./CONTRIBUTING.md).
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-bootstrap-icons.svg?color=%23ff3e00&style=for-the-badge
+[npm]: https://img.shields.io/npm/v/svelte-bootstrap-icons.svg?color=%237952b3&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-bootstrap-icons
 [build]: https://img.shields.io/travis/com/metonym/svelte-bootstrap-icons?color=24a148&style=for-the-badge
 [build-badge]: https://travis-ci.com/metonym/svelte-bootstrap-icons
