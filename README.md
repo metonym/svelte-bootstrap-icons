@@ -7,7 +7,7 @@
 
 <!-- REPO_URL -->
 
-Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124?version=3.24.0).
+Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c06124).
 
 ---
 
@@ -27,7 +27,14 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 
 ```svelte
 <script>
-  import { Alarm, CloudMoon, Github, PaintBucket, Wrench, ZoomOut } from "svelte-bootstrap-icons";
+  import {
+    Alarm,
+    CloudMoon,
+    Github,
+    PaintBucket,
+    Wrench,
+    ZoomOut,
+  } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
@@ -80,6 +87,10 @@ Use the direct import for faster compiling during development.
 {/each}
 
 ```
+
+## TypeScript
+
+Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 ## Changelog
 
