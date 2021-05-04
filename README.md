@@ -46,11 +46,11 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 
 ```
 
-### Direct import
+### Direct import (recommended)
 
-Use the direct import for faster compiling during development.
+Import the icon directly for faster compiling during development.
 
-**Note:** even if using direct imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
+**Note:** even if using the base import methods, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
 
 ```html
 <script>
