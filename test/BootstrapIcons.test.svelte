@@ -1,6 +1,7 @@
 <script lang="ts">
   import {
     Alarm,
+    Bank,
     CloudMoon,
     Github,
     PaintBucket,
@@ -11,6 +12,7 @@
 </script>
 
 <Alarm width={20} />
+<Bank />
 <CloudMoon />
 <Github />
 <PaintBucket />

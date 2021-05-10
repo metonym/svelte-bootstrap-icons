@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1325 icons from svelte-bootstrap-icons@1.4.0.
+> 1370 icons from svelte-bootstrap-icons@1.4.1.
 
 ## Usage
 
@@ -135,6 +135,8 @@
 - BagXFill
 - BagX
 - Bag
+- Bank
+- Bank2
 - BarChartFill
 - BarChartLineFill
 - BarChartLine
@@ -151,6 +153,8 @@
 - BatteryHalf
 - Battery
 - BellFill
+- BellSlashFill
+- BellSlash
 - Bell
 - Bezier
 - Bezier2
@@ -339,6 +343,7 @@
 - Cart2
 - Cart3
 - Cart4
+- CashCoin
 - CashStack
 - Cash
 - Cast
@@ -377,6 +382,7 @@
 - CheckAll
 - CheckCircleFill
 - CheckCircle
+- CheckLg
 - CheckSquareFill
 - CheckSquare
 - Check
@@ -470,6 +476,7 @@
 - CodeSlash
 - CodeSquare
 - Code
+- Coin
 - CollectionFill
 - CollectionPlayFill
 - CollectionPlay
@@ -494,12 +501,19 @@
 - CupFill
 - CupStraw
 - Cup
+- CurrencyBitcoin
+- CurrencyDollar
+- CurrencyEuro
+- CurrencyExchange
+- CurrencyPound
+- CurrencyYen
 - CursorFill
 - CursorText
 - Cursor
 - DashCircleDotted
 - DashCircleFill
 - DashCircle
+- DashLg
 - DashSquareDotted
 - DashSquareFill
 - DashSquare
@@ -579,6 +593,7 @@
 - ExclamationCircle
 - ExclamationDiamondFill
 - ExclamationDiamond
+- ExclamationLg
 - ExclamationOctagonFill
 - ExclamationOctagon
 - ExclamationSquareFill
@@ -645,6 +660,8 @@
 - FileEarmarkMinus
 - FileEarmarkMusicFill
 - FileEarmarkMusic
+- FileEarmarkPdfFill
+- FileEarmarkPdf
 - FileEarmarkPersonFill
 - FileEarmarkPerson
 - FileEarmarkPlayFill
@@ -691,6 +708,8 @@
 - FileMinus
 - FileMusicFill
 - FileMusic
+- FilePdfFill
+- FilePdf
 - FilePersonFill
 - FilePerson
 - FilePlayFill
@@ -756,6 +775,10 @@
 - GearWide
 - Gear
 - Gem
+- GenderAmbiguous
+- GenderFemale
+- GenderMale
+- GenderTrans
 - GeoAltFill
 - GeoAlt
 - GeoFill
@@ -801,6 +824,7 @@
 - HddStack
 - Hdd
 - Headphones
+- HeadsetVr
 - Headset
 - HeartFill
 - HeartHalf
@@ -831,6 +855,7 @@
 - Inboxes
 - InfoCircleFill
 - InfoCircle
+- InfoLg
 - InfoSquareFill
 - InfoSquare
 - Info
@@ -912,6 +937,7 @@
 - MarkdownFill
 - Markdown
 - Mask
+- Mastodon
 - MegaphoneFill
 - Megaphone
 - MenuAppFill
@@ -922,6 +948,7 @@
 - MenuButton
 - MenuDown
 - MenuUp
+- Messenger
 - MicFill
 - MicMuteFill
 - MicMute
@@ -1015,9 +1042,13 @@
 - Phone
 - PieChartFill
 - PieChart
+- PiggyBankFill
+- PiggyBank
 - PinAngleFill
 - PinAngle
 - PinFill
+- PinMapFill
+- PinMap
 - Pin
 - PipFill
 - Pip
@@ -1032,6 +1063,7 @@
 - PlusCircleDotted
 - PlusCircleFill
 - PlusCircle
+- PlusLg
 - PlusSquareDotted
 - PlusSquareFill
 - PlusSquare
@@ -1045,6 +1077,7 @@
 - QuestionCircle
 - QuestionDiamondFill
 - QuestionDiamond
+- QuestionLg
 - QuestionOctagonFill
 - QuestionOctagon
 - QuestionSquareFill
@@ -1066,6 +1099,8 @@
 - Record
 - Record2Fill
 - Record2
+- Recycle
+- Reddit
 - ReplyAllFill
 - ReplyAll
 - ReplyFill
@@ -1073,12 +1108,18 @@
 - RssFill
 - Rss
 - Rulers
+- SafeFill
+- Safe
+- Safe2Fill
+- Safe2
 - SaveFill
 - Save
 - Save2Fill
 - Save2
 - Scissors
 - Screwdriver
+- SdCardFill
+- SdCard
 - Search
 - SegmentedNav
 - Server
@@ -1138,9 +1179,11 @@
 - SkipStartCircle
 - SkipStartFill
 - SkipStart
+- Skype
 - Slack
 - SlashCircleFill
 - SlashCircle
+- SlashLg
 - SlashSquareFill
 - SlashSquare
 - Slash
@@ -1258,6 +1301,7 @@
 - Toggles2
 - Tools
 - Tornado
+- Translate
 - TrashFill
 - Trash
 - Trash2Fill
@@ -1331,6 +1375,7 @@
 - XCircle
 - XDiamondFill
 - XDiamond
+- XLg
 - XOctagonFill
 - XOctagon
 - XSquareFill
