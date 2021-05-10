@@ -1,6 +1,6 @@
 {
   "name": "svelte-bootstrap-icons",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "license": "MIT",
   "description": "Bootstrap SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
