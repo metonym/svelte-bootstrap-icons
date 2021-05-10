@@ -1,7 +1,6 @@
 # svelte-bootstrap-icons
 
 [![NPM][npm]][npm-url]
-[![Build][build]][build-badge]
 
 > [Bootstrap SVG icons](https://github.com/twbs/icons) as Svelte components.
 
@@ -106,5 +105,3 @@ See the [contributing guidelines](./CONTRIBUTING.md).
 
 [npm]: https://img.shields.io/npm/v/svelte-bootstrap-icons.svg?color=%237952b3&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-bootstrap-icons
-[build]: https://img.shields.io/travis/com/metonym/svelte-bootstrap-icons?color=24a148&style=for-the-badge
-[build-badge]: https://travis-ci.com/metonym/svelte-bootstrap-icons
