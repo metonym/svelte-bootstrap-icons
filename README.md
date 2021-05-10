@@ -29,20 +29,20 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 <script>
   import {
     Alarm,
+    Bank,
     CloudMoon,
     Github,
     PaintBucket,
     Wrench,
-    ZoomOut,
   } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
+<Bank />
 <CloudMoon />
 <Github />
 <PaintBucket />
 <Wrench />
-<ZoomOut />
 
 ```
 
