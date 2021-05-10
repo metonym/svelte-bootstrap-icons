@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.5.0](https://github.com/metonym/svelte-bootstrap-icons/releases/tag/v1.5.0) - 2021-05-10
 
-- Upgrade `bootstrap-icons` to version 1.4.0 (+45 icons)
+- Upgrade `bootstrap-icons` to version 1.5.0 (+45 icons)
 
 ## [1.4.1](https://github.com/metonym/svelte-bootstrap-icons/releases/tag/v1.4.1) - 2021-04-06
 
