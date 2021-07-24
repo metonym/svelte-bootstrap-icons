@@ -12,17 +12,25 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 <!-- TOC -->
 
-## Install
+## Installation
+
+**Yarn**
 
 ```bash
 yarn add -D svelte-bootstrap-icons
-# OR
+```
+
+**NPM**
+
+```bash
 npm i -D svelte-bootstrap-icons
 ```
 
 ## Usage
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
+
+### Base import
 
 ```svelte
 <script>
@@ -47,9 +55,9 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 
 ### Direct import (recommended)
 
-Import the icon directly for faster compiling during development.
+Import the icon directly for faster compiling during _development_.
 
-**Note:** even if using the base import methods, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
+**Note:** even if using the base import method, unused imports are still [tree shakeable](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking) by application bundlers like Rollup or webpack.
 
 ```html
 <script>
