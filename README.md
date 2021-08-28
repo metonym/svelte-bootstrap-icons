@@ -50,7 +50,6 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
 <Github />
 <PaintBucket />
 <Wrench />
-
 ```
 
 ### Direct import (recommended)
@@ -79,7 +78,7 @@ Import the icon directly for faster compiling during _development_.
 - on:mouseout
 - on:keydown
 
-## Usage with svelte:component
+## Usage with `svelte:component`
 
 ```svelte
 <script>
@@ -92,7 +91,6 @@ Import the icon directly for faster compiling during _development_.
     {icon}
   </div>
 {/each}
-
 ```
 
 ## TypeScript
