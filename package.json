@@ -17,7 +17,7 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "bootstrap-icons": "1.5.0",
+    "bootstrap-icons": "1.6.0",
     "gh-pages": "^3.2.3",
     "rollup": "^2.57.0",
     "sveld": "^0.8",
