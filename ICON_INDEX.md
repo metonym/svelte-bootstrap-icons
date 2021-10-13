@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1370 icons from svelte-bootstrap-icons@1.5.2.
+> 1406 icons from svelte-bootstrap-icons@1.5.2.
 
 ## Usage
 
@@ -14,6 +14,7 @@
 
 ## Icons by `ModuleName`
 
+- Activity
 - AlarmFill
 - Alarm
 - AlignBottom
@@ -25,6 +26,7 @@
 - Alt
 - AppIndicator
 - App
+- Apple
 - ArchiveFill
 - Archive
 - Arrow90degDown
@@ -152,6 +154,7 @@
 - BatteryFull
 - BatteryHalf
 - Battery
+- Behance
 - BellFill
 - BellSlashFill
 - BellSlash
@@ -550,12 +553,17 @@
 - DoorOpen
 - Dot
 - Download
+- Dribbble
 - DropletFill
 - DropletHalf
 - Droplet
 - Earbuds
 - EaselFill
 - Easel
+- Easel2Fill
+- Easel2
+- Easel3Fill
+- Easel3
 - EggFill
 - EggFried
 - Egg
@@ -609,6 +617,7 @@
 - Eyedropper
 - Eyeglasses
 - Facebook
+- Fan
 - FileArrowDownFill
 - FileArrowDown
 - FileArrowUpFill
@@ -747,6 +756,7 @@
 - FilterSquareFill
 - FilterSquare
 - Filter
+- Fingerprint
 - FlagFill
 - Flag
 - Flower1
@@ -789,7 +799,9 @@
 - Globe
 - Globe2
 - Google
+- GraphDownArrow
 - GraphDown
+- GraphUpArrow
 - GraphUp
 - Grid1x2Fill
 - Grid1x2
@@ -845,6 +857,7 @@
 - House
 - Hr
 - Hurricane
+- Hypnotize
 - ImageAlt
 - ImageFill
 - Image
@@ -918,6 +931,7 @@
 - LightningCharge
 - LightningFill
 - Lightning
+- Line
 - Link45deg
 - Link
 - Linkedin
@@ -930,6 +944,7 @@
 - List
 - LockFill
 - Lock
+- Magic
 - Mailbox
 - Mailbox2
 - MapFill
@@ -938,6 +953,7 @@
 - Markdown
 - Mask
 - Mastodon
+- Medium
 - MegaphoneFill
 - Megaphone
 - MenuAppFill
@@ -953,6 +969,7 @@
 - MicMuteFill
 - MicMute
 - Mic
+- Microsoft
 - MinecartLoaded
 - Minecart
 - Moisture
@@ -1005,6 +1022,7 @@
 - PauseCircle
 - PauseFill
 - Pause
+- Paypal
 - PeaceFill
 - Peace
 - PenFill
@@ -1030,7 +1048,12 @@
 - PersonLinesFill
 - PersonPlusFill
 - PersonPlus
+- PersonRolodex
 - PersonSquare
+- PersonVideo
+- PersonVideo2
+- PersonVideo3
+- PersonWorkspace
 - PersonXFill
 - PersonX
 - Person
@@ -1050,6 +1073,7 @@
 - PinMapFill
 - PinMap
 - Pin
+- Pinterest
 - PipFill
 - Pip
 - PlayBtnFill
@@ -1083,6 +1107,7 @@
 - QuestionSquareFill
 - QuestionSquare
 - Question
+- Radioactive
 - Rainbow
 - ReceiptCutoff
 - Receipt
@@ -1147,6 +1172,7 @@
 - ShopWindow
 - Shop
 - Shuffle
+- Signal
 - Signpost2Fill
 - Signpost2
 - SignpostFill
@@ -1189,6 +1215,7 @@
 - Slash
 - Sliders
 - Smartwatch
+- Snapchat
 - Snow
 - Snow2
 - Snow3
@@ -1210,9 +1237,11 @@
 - Speedometer
 - Speedometer2
 - Spellcheck
+- Spotify
 - SquareFill
 - SquareHalf
 - Square
+- StackOverflow
 - Stack
 - StarFill
 - StarHalf
@@ -1232,6 +1261,7 @@
 - Stoplights
 - StopwatchFill
 - Stopwatch
+- Strava
 - Subtract
 - SuitClubFill
 - SuitClub
@@ -1344,6 +1374,7 @@
 - VectorPen
 - ViewList
 - ViewStacked
+- Vimeo
 - VinylFill
 - Vinyl
 - Voicemail
@@ -1361,6 +1392,8 @@
 - Wallet2
 - Watch
 - Water
+- WebcamFill
+- Webcam
 - Whatsapp
 - Wifi1
 - Wifi2
@@ -1370,6 +1403,8 @@
 - WindowDock
 - WindowSidebar
 - Window
+- Windows
+- Wordpress
 - Wrench
 - XCircleFill
 - XCircle
@@ -1381,6 +1416,7 @@
 - XSquareFill
 - XSquare
 - X
+- YinYang
 - Youtube
 - ZoomIn
 - ZoomOut

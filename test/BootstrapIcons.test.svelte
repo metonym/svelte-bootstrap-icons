@@ -9,6 +9,7 @@
     ZoomOut,
   } from "../types";
   import Alt from "../types/Alt/Alt";
+  import Apple from "../types/Apple/Apple";
 </script>
 
 <!-- svelte-ignore missing-declaration -->
@@ -27,3 +28,5 @@
 <ZoomOut />
 <!-- svelte-ignore missing-declaration -->
 <Alt style="fill: red" on:click />
+<!-- svelte-ignore missing-declaration -->
+<Apple />
