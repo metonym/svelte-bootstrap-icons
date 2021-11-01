@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1406 icons from svelte-bootstrap-icons@1.6.1.
+> 1521 icons from svelte-bootstrap-icons@1.6.1.
 
 ## Usage
 
@@ -14,6 +14,7 @@
 
 ## Icons by `ModuleName`
 
+- _123
 - Activity
 - AlarmFill
 - Alarm
@@ -137,6 +138,8 @@
 - BagXFill
 - BagX
 - Bag
+- BandaidFill
+- Bandaid
 - Bank
 - Bank2
 - BarChartFill
@@ -166,6 +169,8 @@
 - Binoculars
 - BlockquoteLeft
 - BlockquoteRight
+- Bluetooth
+- BodyText
 - BookFill
 - BookHalf
 - Book
@@ -186,6 +191,8 @@
 - BookmarksFill
 - Bookmarks
 - Bookshelf
+- BoomboxFill
+- Boombox
 - BootstrapFill
 - BootstrapReboot
 - Bootstrap
@@ -221,6 +228,7 @@
 - BoxArrowUp
 - BoxSeam
 - Box
+- Boxes
 - Braces
 - Bricks
 - BriefcaseFill
@@ -443,10 +451,10 @@
 - CloudFog2
 - CloudHailFill
 - CloudHail
-- CloudHaze1
 - CloudHazeFill
 - CloudHaze
 - CloudHaze2Fill
+- CloudHaze2
 - CloudLightningFill
 - CloudLightningRainFill
 - CloudLightningRain
@@ -521,6 +529,10 @@
 - DashSquareFill
 - DashSquare
 - Dash
+- DeviceHddFill
+- DeviceHdd
+- DeviceSsdFill
+- DeviceSsd
 - Diagram2Fill
 - Diagram2
 - Diagram3Fill
@@ -545,6 +557,8 @@
 - Discord
 - DisplayFill
 - Display
+- DisplayportFill
+- Displayport
 - DistributeHorizontal
 - DistributeVertical
 - DoorClosedFill
@@ -553,10 +567,14 @@
 - DoorOpen
 - Dot
 - Download
+- DpadFill
+- Dpad
 - Dribbble
 - DropletFill
 - DropletHalf
 - Droplet
+- EarFill
+- Ear
 - Earbuds
 - EaselFill
 - Easel
@@ -591,12 +609,25 @@
 - EmojiSunglasses
 - EmojiWinkFill
 - EmojiWink
+- EnvelopeCheckFill
+- EnvelopeCheck
+- EnvelopeDashFill
+- EnvelopeDash
+- EnvelopeExclamationFill
+- EnvelopeExclamation
 - EnvelopeFill
 - EnvelopeOpenFill
 - EnvelopeOpen
+- EnvelopePlusFill
+- EnvelopePlus
+- EnvelopeSlashFill
+- EnvelopeSlash
+- EnvelopeXFill
+- EnvelopeX
 - Envelope
 - EraserFill
 - Eraser
+- Ethernet
 - ExclamationCircleFill
 - ExclamationCircle
 - ExclamationDiamondFill
@@ -610,6 +641,8 @@
 - ExclamationTriangle
 - Exclamation
 - Exclude
+- ExplicitFill
+- Explicit
 - EyeFill
 - EyeSlashFill
 - EyeSlash
@@ -795,10 +828,12 @@
 - Geo
 - GiftFill
 - Gift
+- Git
 - Github
 - Globe
 - Globe2
 - Google
+- GpuCard
 - GraphDownArrow
 - GraphDown
 - GraphUpArrow
@@ -835,6 +870,8 @@
 - HddStackFill
 - HddStack
 - Hdd
+- HdmiFill
+- Hdmi
 - Headphones
 - HeadsetVr
 - Headset
@@ -866,6 +903,7 @@
 - Inbox
 - InboxesFill
 - Inboxes
+- Infinity
 - InfoCircleFill
 - InfoCircle
 - InfoLg
@@ -936,6 +974,8 @@
 - Link
 - Linkedin
 - ListCheck
+- ListColumnsReverse
+- ListColumns
 - ListNested
 - ListOl
 - ListStars
@@ -956,6 +996,7 @@
 - Medium
 - MegaphoneFill
 - Megaphone
+- Memory
 - MenuAppFill
 - MenuApp
 - MenuButtonFill
@@ -965,6 +1006,7 @@
 - MenuDown
 - MenuUp
 - Messenger
+- Meta
 - MicFill
 - MicMuteFill
 - MicMute
@@ -972,11 +1014,17 @@
 - Microsoft
 - MinecartLoaded
 - Minecart
+- ModemFill
+- Modem
 - Moisture
 - MoonFill
 - MoonStarsFill
 - MoonStars
 - Moon
+- MortarboardFill
+- Mortarboard
+- MotherboardFill
+- Motherboard
 - MouseFill
 - Mouse
 - Mouse2Fill
@@ -989,6 +1037,7 @@
 - MusicPlayerFill
 - MusicPlayer
 - Newspaper
+- NintendoSwitch
 - NodeMinusFill
 - NodeMinus
 - NodePlusFill
@@ -998,6 +1047,8 @@
 - OctagonFill
 - OctagonHalf
 - Octagon
+- OpticalAudioFill
+- OpticalAudio
 - Option
 - Outlet
 - PaintBucket
@@ -1023,6 +1074,11 @@
 - PauseFill
 - Pause
 - Paypal
+- PcDisplayHorizontal
+- PcDisplay
+- PcHorizontal
+- Pc
+- PciCard
 - PeaceFill
 - Peace
 - PenFill
@@ -1082,12 +1138,14 @@
 - PlayCircle
 - PlayFill
 - Play
+- Playstation
 - PlugFill
 - Plug
 - PlusCircleDotted
 - PlusCircleFill
 - PlusCircle
 - PlusLg
+- PlusSlashMinus
 - PlusSquareDotted
 - PlusSquareFill
 - PlusSquare
@@ -1095,8 +1153,12 @@
 - Power
 - PrinterFill
 - Printer
+- ProjectorFill
+- Projector
 - PuzzleFill
 - Puzzle
+- QrCodeScan
+- QrCode
 - QuestionCircleFill
 - QuestionCircle
 - QuestionDiamondFill
@@ -1107,6 +1169,8 @@
 - QuestionSquareFill
 - QuestionSquare
 - Question
+- Quora
+- Quote
 - Radioactive
 - Rainbow
 - ReceiptCutoff
@@ -1130,6 +1194,9 @@
 - ReplyAll
 - ReplyFill
 - Reply
+- Robot
+- RouterFill
+- Router
 - RssFill
 - Rss
 - Rulers
@@ -1147,6 +1214,20 @@
 - SdCard
 - Search
 - SegmentedNav
+- SendCheckFill
+- SendCheck
+- SendDashFill
+- SendDash
+- SendExclamationFill
+- SendExclamation
+- SendFill
+- SendPlusFill
+- SendPlus
+- SendSlashFill
+- SendSlash
+- SendXFill
+- SendX
+- Send
 - Server
 - ShareFill
 - Share
@@ -1247,6 +1328,7 @@
 - StarHalf
 - Star
 - Stars
+- Steam
 - StickiesFill
 - Stickies
 - StickyFill
@@ -1304,7 +1386,10 @@
 - TelephoneXFill
 - TelephoneX
 - Telephone
+- TerminalDash
 - TerminalFill
+- TerminalPlus
+- TerminalSplit
 - Terminal
 - TextCenter
 - TextIndentLeft
@@ -1323,6 +1408,15 @@
 - Thermometer
 - ThreeDotsVertical
 - ThreeDots
+- ThunderboltFill
+- Thunderbolt
+- TicketDetailedFill
+- TicketDetailed
+- TicketFill
+- TicketPerferatedFill
+- TicketPerferated
+- Ticket
+- Tiktok
 - ToggleOff
 - ToggleOn
 - Toggle2Off
@@ -1371,6 +1465,19 @@
 - UpcScan
 - Upc
 - Upload
+- UsbCFill
+- UsbC
+- UsbDriveFill
+- UsbDrive
+- UsbFill
+- UsbMicroFill
+- UsbMicro
+- UsbMiniFill
+- UsbMini
+- UsbPlugFill
+- UsbPlug
+- UsbSymbol
+- Usb
 - VectorPen
 - ViewList
 - ViewStacked
@@ -1400,8 +1507,15 @@
 - WifiOff
 - Wifi
 - Wind
+- WindowDash
+- WindowDesktop
 - WindowDock
+- WindowFullscreen
+- WindowPlus
 - WindowSidebar
+- WindowSplit
+- WindowStack
+- WindowX
 - Window
 - Windows
 - Wordpress
@@ -1416,6 +1530,7 @@
 - XSquareFill
 - XSquare
 - X
+- Xbox
 - YinYang
 - Youtube
 - ZoomIn
