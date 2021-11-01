@@ -1,5 +1,7 @@
 <script lang="ts">
   import {
+    _123 as Icon_123,
+    Bluetooth,
     Alarm,
     Bank,
     CloudMoon,
@@ -30,3 +32,7 @@
 <Alt style="fill: red" on:click />
 <!-- svelte-ignore missing-declaration -->
 <Apple />
+<!-- svelte-ignore missing-declaration -->
+<Icon_123 />
+<!-- svelte-ignore missing-declaration -->
+<Bluetooth />
