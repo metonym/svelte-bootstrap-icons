@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1521 icons from svelte-bootstrap-icons@1.7.0.
+> 1522 icons from svelte-bootstrap-icons@1.7.0.
 
 ## Usage
 
@@ -1390,6 +1390,7 @@
 - TerminalFill
 - TerminalPlus
 - TerminalSplit
+- TerminalX
 - Terminal
 - TextCenter
 - TextIndentLeft
