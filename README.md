@@ -66,23 +66,9 @@ Import the icon directly for faster compiling during _development_.
 
 ```html
 <script>
-  import Alarm from "svelte-bootstrap-icons/lib/Alarm";
-  // OR
-  import Alarm from "svelte-bootstrap-icons/lib/Alarm/Alarm.svelte";
+  import Alarm from "svelte-bootstrap-icons/lib/Alarm.svelte";
 </script>
 ```
-
-## API
-
-`$$restProps` are forwarded to the `svg` element.
-
-### Forwarded events
-
-- on:click
-- on:mouseover
-- on:mouseenter
-- on:mouseout
-- on:keydown
 
 ## Usage with `svelte:component`
 
@@ -91,9 +77,9 @@ Import the icon directly for faster compiling during _development_.
   import * as icons from "svelte-bootstrap-icons";
 </script>
 
-{#each Object.keys(icons) as icon}
+{#each Object.entries(icons) as [icon, component]}
   <div>
-    <svelte:component this={icons[icon]} title={icon} />
+    <svelte:component this={component} />
     {icon}
   </div>
 {/each}
