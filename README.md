@@ -26,6 +26,12 @@ yarn add -D svelte-bootstrap-icons
 npm i -D svelte-bootstrap-icons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-bootstrap-icons
+```
+
 ## Usage
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a full list of supported icons.
