@@ -1119,11 +1119,6 @@ svelte@^3.31.2:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
   integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelte@^3.32.1:
-  version "3.42.3"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.3.tgz#a7687a43ff6aa12263e03cf56219cd21eff5372d"
-  integrity sha512-pbdtdNZEx2GBqSM6XEgPoHbwtvWBwFLt/1bRmzsyXZO+i424wFnPe7O5B3GOJDPFSxPRztumAW3mL5LPzecWUg==
-
 svelte@^3.42.4:
   version "3.44.2"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.2.tgz#3e69be2598308dfc8354ba584cec54e648a50f7f"
@@ -1136,13 +1131,6 @@ svelvg@^0.7.0:
   dependencies:
     svelte "^3.42.4"
     tiny-glob "^0.2.9"
-
-svg-to-svelte@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/svg-to-svelte/-/svg-to-svelte-2.2.1.tgz#6dfab0af1b2eaf689fb182f73ec7831ce375bb4c"
-  integrity sha512-FixujLhaXhCKnFkOkqwYkO+QQHMLDrlAb4aCRJbucpkkVvRoA1Iml+Wvy0TNax1ljIAAkFjhmtxNHmGeWjT3VA==
-  dependencies:
-    svelte "^3.32.1"
 
 terser@^5.0.0:
   version "5.7.2"
