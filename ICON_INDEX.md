@@ -1414,8 +1414,8 @@
 - TicketDetailedFill
 - TicketDetailed
 - TicketFill
-- TicketPerferatedFill
-- TicketPerferated
+- TicketPerforatedFill
+- TicketPerforated
 - Ticket
 - Tiktok
 - ToggleOff
