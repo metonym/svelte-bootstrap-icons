@@ -1119,17 +1119,17 @@ svelte@^3.31.2:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
   integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelte@^3.42.4:
-  version "3.44.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.2.tgz#3e69be2598308dfc8354ba584cec54e648a50f7f"
-  integrity sha512-jrZhZtmH3ZMweXg1Q15onb8QlWD+a5T5Oca4C1jYvSURp2oD35h4A5TV6t6MEa93K4LlX6BkafZPdQoFjw/ylA==
+svelte@^3.44.3:
+  version "3.44.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.3.tgz#795b1ced6ed3da44969099e5061b850c93c95e9a"
+  integrity sha512-aGgrNCip5PQFNfq9e9tmm7EYxWLVHoFsEsmKrtOeRD8dmoGDdyTQ+21xd7qgFd8MNdKGSYvg7F9dr+Tc0yDymg==
 
-svelvg@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.7.0.tgz#f81b34631f2b66f225e5d69ead13aa086234c66e"
-  integrity sha512-XsgeFI7O8Y63QVimrnRTUOIOwW61Y/o4Byae1Wey4sRoIznkBmVsqgngAoprmT5WXqr8xqw8h8vcyVaX/Q2QkQ==
+svelvg@^0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.8.3.tgz#9d806304dab6d00fd8c2289ded9d9287aea0ceee"
+  integrity sha512-PdMrQKR8aEn0oHGErD41eaSHw7REXNGzVEJJRw2QIcsFOr+YH61+V8IKSLJoo3niv6B1j7tmVXgJkQV6mKFtgg==
   dependencies:
-    svelte "^3.42.4"
+    svelte "^3.44.3"
     tiny-glob "^0.2.9"
 
 terser@^5.0.0:

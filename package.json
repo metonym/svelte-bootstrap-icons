@@ -23,7 +23,7 @@
     "sveld": "^0.8",
     "svelte-check": "^2.2.10",
     "svelte-readme": "^3.6.1",
-    "svelvg": "^0.7.0"
+    "svelvg": "^0.8.3"
   },
   "repository": {
     "type": "git",
