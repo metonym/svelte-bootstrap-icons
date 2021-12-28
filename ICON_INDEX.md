@@ -1,18 +1,8 @@
 # Icon Index
 
-> 1522 icons from svelte-bootstrap-icons@1.7.2.
+> 1522 total icons
 
-## Usage
-
-```html
-<script>
-  import Icon from "svelte-bootstrap-icons/lib/{ModuleName}";
-</script>
-
-<Icon />
-```
-
-## Icons by `ModuleName`
+## Icons
 
 - _123
 - Activity
@@ -1536,3 +1526,4 @@
 - Youtube
 - ZoomIn
 - ZoomOut
+

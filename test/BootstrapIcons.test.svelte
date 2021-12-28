@@ -9,9 +9,9 @@
     PaintBucket,
     Wrench,
     ZoomOut,
-  } from "../types";
-  import Alt from "../types/Alt/Alt";
-  import Apple from "../types/Apple/Apple";
+  } from "../lib";
+  import Alt from "../lib/Alt/Alt.svelte";
+  import Apple from "../lib/Apple/Apple.svelte";
 </script>
 
 <!-- svelte-ignore missing-declaration -->

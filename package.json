@@ -13,7 +13,7 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
-    "prepack": "s2s --input=node_modules/bootstrap-icons/icons && sveld --glob",
+    "prepack": "svelvg glob=bootstrap-icons/icons iconIndex",
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
