@@ -19,10 +19,10 @@
   "devDependencies": {
     "bootstrap-icons": "1.7.2",
     "gh-pages": "^3.2.3",
-    "rollup": "^2.60.2",
+    "rollup": "^2.66.0",
     "sveld": "^0.8",
-    "svelte-check": "^2.2.10",
-    "svelte-readme": "^3.6.1",
+    "svelte-check": "^2.3.0",
+    "svelte-readme": "^3.6.2",
     "svg-to-svelte": "^2.2.1"
   },
   "repository": {
