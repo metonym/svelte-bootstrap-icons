@@ -1,5 +1,6 @@
 <script lang="ts">
   import {
+    ArrowThroughHeart,
     _123 as Icon_123,
     Bluetooth,
     Alarm,
@@ -14,6 +15,8 @@
   import Apple from "../types/Apple/Apple";
 </script>
 
+<!-- svelte-ignore missing-declaration -->
+<ArrowThroughHeart />
 <!-- svelte-ignore missing-declaration -->
 <Alarm width={20} />
 <!-- svelte-ignore missing-declaration -->
