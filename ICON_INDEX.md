@@ -1664,7 +1664,7 @@
 - Windows
 - Wordpress
 - WrenchAdjustableCircleFill
-- WrenchAdjustableCricle
+- WrenchAdjustableCircle
 - WrenchAdjustable
 - Wrench
 - XCircleFill
