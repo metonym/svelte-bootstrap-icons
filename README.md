@@ -72,9 +72,25 @@ Import the icon directly for faster compiling during _development_.
 </script>
 ```
 
-## API
+### Custom size
 
 `$$restProps` are forwarded to the `svg` element.
+
+Use the `width` and `height` attributes to customize the icon size. The default is 16px.
+
+```svelte
+<Alarm width={24} height={24} />
+```
+
+### Custom color
+
+Use the `fill` attribute to specify a custom color.
+
+```svelte
+<Alarm fill="red" />
+```
+
+## API
 
 ### Forwarded events
 
