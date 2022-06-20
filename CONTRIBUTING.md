@@ -1,13 +1,11 @@
 # Contributing
 
-## Getting Started
+## Prerequisites
 
-### Prerequisites
-
-- [node (version >=12)](https://nodejs.org/en/download/package-manager/#macos)
+- [node (version >=14)](https://nodejs.org/en/download/package-manager/#macos)
 - [yarn](https://yarnpkg.com/en/docs/install#mac-stable)
 
-### Fork and clone
+## Fork and clone
 
 Fork this repository and clone your fork:
 
@@ -22,17 +20,13 @@ Set the original repo as the upstream:
 git remote add upstream git@github.com:metonym/svelte-bootstrap-icons.git
 ```
 
-### Install
+## Install
 
-Install the project dependencies by running the following command at the root of the folder.
+Install the project dependencies by running `yarn install`.
 
-```bash
-yarn install
-```
+### Development workflow
 
-## Development workflow
-
-[svg-to-svelte](https://github.com/metonym/svg-to-svelte) makes SVG files from the [bootstrap-icons](https://www.npmjs.com/package/bootstrap-icons) package consumable as Svelte components.
+[svelvg](https://github.com/metonym/svelvg) converts SVG files from [bootstrap-icons](https://www.npmjs.com/package/bootstrap-icons) into Svelte components.
 
 Run `yarn prepack` to generate Svelte components from SVG source files.
 
@@ -42,13 +36,11 @@ Documentation is auto-generated using the list of icon module names from the sou
 
 ### Developing
 
-Run `yarn prepack` once to first build the library.
+First, run `yarn prepack` once to build the library.
 
 Then, run `yarn dev` to preview the rendered icons.
 
-## Submitting a Pull Request
-
-### Sync Your Fork
+### Submitting a Pull Request
 
 Before submitting a pull request, make sure your fork is up to date with the latest upstream changes.
 
@@ -57,7 +49,5 @@ git fetch upstream
 git checkout master
 git merge upstream/master
 ```
-
-### Submit a PR
 
 After you've pushed your changes to remote, submit your PR. Make sure you are comparing `<YOUR_USER_ID>/feature` to `origin/master`.

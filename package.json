@@ -6,24 +6,20 @@
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
-  "types": "./types/index.d.ts",
+  "types": "./lib/index.d.ts",
   "type": "module",
-  "sideEffects": false,
   "scripts": {
-    "dev": "rollup -cw",
-    "predeploy": "rollup -c",
-    "deploy": "gh-pages -d dist",
-    "prepack": "s2s --input=node_modules/bootstrap-icons/icons && sveld --glob",
-    "test": "svelte-check --workspace test"
+    "dev": "vite",
+    "build": "vite build",
+    "prepack": "svelvg glob=bootstrap-icons/icons iconIndex",
+    "test": "vitest"
   },
   "devDependencies": {
-    "bootstrap-icons": "1.8.2",
-    "gh-pages": "^4.0.0",
-    "rollup": "^2.73.0",
-    "sveld": "^0.8",
-    "svelte-check": "^2.7.0",
-    "svelte-readme": "^3.6.3",
-    "svg-to-svelte": "^2.2.1"
+    "@sveltejs/vite-plugin-svelte": "1.0.0-next.49",
+    "bootstrap-icons": "^1.8.3",
+    "svelvg": "^0.11.1",
+    "vite-plugin-gh-pages": "^0.3.0",
+    "vitest": "^0.15.1"
   },
   "repository": {
     "type": "git",
@@ -39,7 +35,6 @@
     "svg"
   ],
   "files": [
-    "lib",
-    "types"
+    "lib"
   ]
 }

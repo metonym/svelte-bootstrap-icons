@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+- Remove forwarded click/mouseover/mousenter/mouseleave/keydown events
+- Remove default `slot`
+- Flatten `lib` folder; direct import path is now `svelte-bootstrap-icons/lib/<IconName>.svelte` instead of `svelte-bootstrap-icons/lib/<IconName>`
+
 ## [1.8.2](https://github.com/metonym/svelte-bootstrap-icons/releases/tag/v1.8.2) - 2022-05-13
 
 - Upgrade `bootstrap-icons` to v1.8.2 (no new icons, but fixes to a handful of existing ones)
