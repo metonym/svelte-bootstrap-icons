@@ -32,10 +32,7 @@ See [ICON_INDEX.md](./ICON_INDEX.md) for a list of supported icons.
 
 ```svelte
 <script>
-  import { Alarm,
-    Bank,
-    CloudMoon,
-  } from "svelte-bootstrap-icons";
+  import { Alarm, Bank, CloudMoon } from "svelte-bootstrap-icons";
 </script>
 
 <Alarm />
