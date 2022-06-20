@@ -1,18 +1,8 @@
 # Icon Index
 
-> 1668 icons from svelte-bootstrap-icons@1.8.2.
+> 1668 total icons
 
-## Usage
-
-```html
-<script>
-  import Icon from "svelte-bootstrap-icons/lib/{ModuleName}";
-</script>
-
-<Icon />
-```
-
-## Icons by `ModuleName`
+## Icons
 
 - _123
 - Activity
