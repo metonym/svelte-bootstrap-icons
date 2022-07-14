@@ -68,10 +68,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
-bootstrap-icons@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.8.3.tgz#14c15e26deaddd42af9f88c4d81f7c45bf26aa98"
-  integrity sha512-s5kmttnbq4BXbx3Bwnj39y+t7Vc3blTtyD77W3aYQ1LlNoS3lNbbGvSYhIbg26Im8KmjScyFpHEevlPOBcIDdA==
+bootstrap-icons@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/bootstrap-icons/-/bootstrap-icons-1.9.0.tgz#e0ac54e931f674b3268e3921e53c34aeae7ac224"
+  integrity sha512-4S077UbfqHtNOIKc43SDR+EL43zfo7ou8jI5+JRQqGZuq5UOK6iX6FtFNOQ/WjeWJ09CZ0/kSceh+WWPzfMfVQ==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
