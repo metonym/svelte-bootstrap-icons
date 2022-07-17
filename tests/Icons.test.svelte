@@ -1,5 +1,10 @@
 <script lang="ts">
-  import { ArrowThroughHeart, _123 as Icon_123, BrowserChrome } from "../lib";
+  import {
+    ArrowThroughHeart,
+    _123 as Icon_123,
+    BrowserChrome,
+    FuelPump,
+  } from "../lib";
   import Alt from "../lib/Alt.svelte";
 </script>
 
@@ -7,3 +12,4 @@
 <Alt style="fill: red" />
 <Icon_123 />
 <BrowserChrome />
+<FuelPump />
