@@ -4,6 +4,7 @@
     _123 as Icon_123,
     BrowserChrome,
     FuelPump,
+    _0Circle as Icon_0Circle,
   } from "../lib";
   import Alt from "../lib/Alt.svelte";
 </script>
@@ -13,3 +14,4 @@
 <Icon_123 />
 <BrowserChrome />
 <FuelPump />
+<Icon_0Circle />
