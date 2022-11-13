@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "1.1.1",
-    "bootstrap-icons": "^1.10.0",
+    "bootstrap-icons": "^1.10.2",
     "svelvg": "^0.11.3",
     "vite-plugin-gh-pages": "^0.4.1",
     "vitest": "^0.25.1"
