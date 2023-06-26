@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0](https://github.com/metonym/svelte-bootstrap-icons/releases/tag/v3.0.0) - 2023-06-25
+
+**Breaking Changes**
+
+- Update generated types to support Svelte version 4. Svelte version 3.55 is the minimum supported version.
+
 ## [2.3.1](https://github.com/metonym/svelte-bootstrap-icons/releases/tag/v2.3.1) - 2022-11-13
 
 - Upgrade `bootstrap-icons` to [v1.10.2](https://github.com/twbs/icons/releases/tag/v1.10.2) (net +0 icons)
