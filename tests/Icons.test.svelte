@@ -1,5 +1,6 @@
 <script lang="ts">
   import {
+    Amazon,
     ArrowThroughHeart,
     _123 as Icon_123,
     BrowserChrome,
@@ -15,3 +16,4 @@
 <BrowserChrome />
 <FuelPump />
 <Icon_0Circle />
+<Amazon />
