@@ -11,15 +11,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "prepack": "svelvg glob=bootstrap-icons/icons iconIndex",
-    "test": "vitest"
+    "prepack": "bunx svelvg glob=bootstrap-icons/icons iconIndex",
+    "test": "bun test"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "2.4.2",
-    "bootstrap-icons": "^1.10.5",
+    "@sveltejs/vite-plugin-svelte": "^2.4.5",
+    "bootstrap-icons": "1.10.5",
     "svelvg": "^0.12.1",
-    "vite-plugin-gh-pages": "^0.4.1",
-    "vitest": "^0.32.2"
+    "vite": "^4.4.9",
+    "vite-plugin-gh-pages": "^0.4.1"
   },
   "repository": {
     "type": "git",
