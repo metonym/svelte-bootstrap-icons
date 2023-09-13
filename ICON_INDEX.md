@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1953 total icons
+> 2050 total icons
 
 ## Icons
 
@@ -60,7 +60,10 @@
 - AlignStart
 - AlignTop
 - Alipay
+- AlphabetUppercase
+- Alphabet
 - Alt
+- Amazon
 - Amd
 - Android
 - Android2
@@ -132,10 +135,14 @@
 - ArrowUp
 - ArrowsAngleContract
 - ArrowsAngleExpand
+- ArrowsCollapseVertical
 - ArrowsCollapse
+- ArrowsExpandVertical
 - ArrowsExpand
 - ArrowsFullscreen
 - ArrowsMove
+- ArrowsVertical
+- Arrows
 - AspectRatioFill
 - AspectRatio
 - Asterisk
@@ -143,6 +150,14 @@
 - AwardFill
 - Award
 - Back
+- BackpackFill
+- Backpack
+- Backpack2Fill
+- Backpack2
+- Backpack3Fill
+- Backpack3
+- Backpack4Fill
+- Backpack4
 - BackspaceFill
 - BackspaceReverseFill
 - BackspaceReverse
@@ -187,6 +202,8 @@
 - BalloonHeartFill
 - BalloonHeart
 - Balloon
+- BanFill
+- Ban
 - BandaidFill
 - Bandaid
 - Bank
@@ -214,6 +231,7 @@
 - Bezier
 - Bezier2
 - Bicycle
+- Bing
 - BinocularsFill
 - Binoculars
 - BlockquoteLeft
@@ -297,6 +315,7 @@
 - BrightnessHigh
 - BrightnessLowFill
 - BrightnessLow
+- Brilliance
 - BroadcastPin
 - Broadcast
 - BrowserChrome
@@ -340,6 +359,10 @@
 - CCircle
 - CSquareFill
 - CSquare
+- CakeFill
+- Cake
+- Cake2Fill
+- Cake2
 - CalculatorFill
 - Calculator
 - CalendarCheckFill
@@ -636,6 +659,8 @@
 - ConeStriped
 - Cone
 - Controller
+- Cookie
+- Copy
 - CpuFill
 - Cpu
 - CreditCard2BackFill
@@ -645,6 +670,8 @@
 - CreditCardFill
 - CreditCard
 - Crop
+- Crosshair
+- Crosshair2
 - CupFill
 - CupHotFill
 - CupHot
@@ -735,6 +762,8 @@
 - DropletFill
 - DropletHalf
 - Droplet
+- DuffleFill
+- Duffle
 - EarFill
 - Ear
 - Earbuds
@@ -751,12 +780,18 @@
 - Eject
 - EmojiAngryFill
 - EmojiAngry
+- EmojiAstonishedFill
+- EmojiAstonished
 - EmojiDizzyFill
 - EmojiDizzy
 - EmojiExpressionlessFill
 - EmojiExpressionless
 - EmojiFrownFill
 - EmojiFrown
+- EmojiGrimaceFill
+- EmojiGrimace
+- EmojiGrinFill
+- EmojiGrin
 - EmojiHeartEyesFill
 - EmojiHeartEyes
 - EmojiKissFill
@@ -771,8 +806,16 @@
 - EmojiSmile
 - EmojiSunglassesFill
 - EmojiSunglasses
+- EmojiSurpriseFill
+- EmojiSurprise
+- EmojiTearFill
+- EmojiTear
 - EmojiWinkFill
 - EmojiWink
+- EnvelopeArrowDownFill
+- EnvelopeArrowDown
+- EnvelopeArrowUpFill
+- EnvelopeArrowUp
 - EnvelopeAtFill
 - EnvelopeAt
 - EnvelopeCheckFill
@@ -822,6 +865,7 @@
 - Exclude
 - ExplicitFill
 - Explicit
+- Exposure
 - EyeFill
 - EyeSlashFill
 - EyeSlash
@@ -836,6 +880,8 @@
 - FastForwardCircle
 - FastForwardFill
 - FastForward
+- Feather
+- Feather2
 - FileArrowDownFill
 - FileArrowDown
 - FileArrowUpFill
@@ -1027,6 +1073,10 @@
 - Fire
 - FlagFill
 - Flag
+- FloppyFill
+- Floppy
+- Floppy2Fill
+- Floppy2
 - Flower1
 - Flower2
 - Flower3
@@ -1060,6 +1110,7 @@
 - GenderAmbiguous
 - GenderFemale
 - GenderMale
+- GenderNeuter
 - GenderTrans
 - GeoAltFill
 - GeoAlt
@@ -1069,6 +1120,7 @@
 - Gift
 - Git
 - Github
+- Gitlab
 - GlobeAmericas
 - GlobeAsiaAustralia
 - GlobeCentralSouthAsia
@@ -1138,6 +1190,8 @@
 - HexagonFill
 - HexagonHalf
 - Hexagon
+- Highlighter
+- Highlights
 - HospitalFill
 - Hospital
 - HourglassBottom
@@ -1266,17 +1320,22 @@
 - List
 - LockFill
 - Lock
+- LuggageFill
+- Luggage
 - LungsFill
 - Lungs
 - Magic
 - MagnetFill
 - Magnet
+- MailboxFlag
 - Mailbox
+- Mailbox2Flag
 - Mailbox2
 - MapFill
 - Map
 - MarkdownFill
 - Markdown
+- MarkerTip
 - Mask
 - Mastodon
 - Medium
@@ -1329,12 +1388,16 @@
 - NodeMinus
 - NodePlusFill
 - NodePlus
+- NoiseReduction
 - NutFill
 - Nut
 - Nvidia
+- NvmeFill
+- Nvme
 - OctagonFill
 - OctagonHalf
 - Octagon
+- Opencollective
 - OpticalAudioFill
 - OpticalAudio
 - Option
@@ -1351,6 +1414,8 @@
 - Paragraph
 - PassFill
 - Pass
+- PassportFill
+- Passport
 - PatchCheckFill
 - PatchCheck
 - PatchExclamationFill
@@ -1372,6 +1437,8 @@
 - PcDisplay
 - PcHorizontal
 - Pc
+- PciCardNetwork
+- PciCardSound
 - PciCard
 - PeaceFill
 - Peace
@@ -1387,6 +1454,7 @@
 - People
 - Percent
 - PersonAdd
+- PersonArmsUp
 - PersonBadgeFill
 - PersonBadge
 - PersonBoundingBox
@@ -1415,15 +1483,20 @@
 - PersonLock
 - PersonPlusFill
 - PersonPlus
+- PersonRaisedHand
 - PersonRolodex
 - PersonSlash
 - PersonSquare
+- PersonStandingDress
+- PersonStanding
 - PersonUp
 - PersonVcardFill
 - PersonVcard
 - PersonVideo
 - PersonVideo2
 - PersonVideo3
+- PersonWalking
+- PersonWheelchair
 - PersonWorkspace
 - PersonXFill
 - PersonX
@@ -1502,6 +1575,7 @@
 - RCircle
 - RSquareFill
 - RSquare
+- Radar
 - Radioactive
 - Rainbow
 - ReceiptCutoff
@@ -1561,6 +1635,10 @@
 - SearchHeart
 - Search
 - SegmentedNav
+- SendArrowDownFill
+- SendArrowDown
+- SendArrowUpFill
+- SendArrowUp
 - SendCheckFill
 - SendCheck
 - SendDashFill
@@ -1576,6 +1654,7 @@
 - SendX
 - Send
 - Server
+- Shadows
 - ShareFill
 - Share
 - ShieldCheck
@@ -1646,6 +1725,8 @@
 - SignpostSplit
 - Signpost
 - SimFill
+- SimSlashFill
+- SimSlash
 - Sim
 - SinaWeibo
 - SkipBackwardBtnFill
@@ -1701,6 +1782,7 @@
 - SortUpAlt
 - SortUp
 - Soundwave
+- Sourceforge
 - SpeakerFill
 - Speaker
 - Speedometer
@@ -1734,6 +1816,7 @@
 - Strava
 - Stripe
 - Subscript
+- Substack
 - Subtract
 - SuitClubFill
 - SuitClub
@@ -1743,6 +1826,12 @@
 - SuitHeart
 - SuitSpadeFill
 - SuitSpade
+- SuitcaseFill
+- SuitcaseLgFill
+- SuitcaseLg
+- Suitcase
+- Suitcase2Fill
+- Suitcase2
 - SunFill
 - Sun
 - Sunglasses
@@ -1802,6 +1891,8 @@
 - ThermometerSnow
 - ThermometerSun
 - Thermometer
+- ThreadsFill
+- Threads
 - ThreeDotsVertical
 - ThreeDots
 - ThunderboltFill
@@ -1828,6 +1919,7 @@
 - TrainLightrailFrontFill
 - TrainLightrailFront
 - Translate
+- Transparency
 - TrashFill
 - Trash
 - Trash2Fill
@@ -1851,11 +1943,15 @@
 - TvFill
 - Tv
 - Twitch
+- TwitterX
 - Twitter
 - TypeBold
 - TypeH1
 - TypeH2
 - TypeH3
+- TypeH4
+- TypeH5
+- TypeH6
 - TypeItalic
 - TypeStrikethrough
 - TypeUnderline
@@ -1895,6 +1991,7 @@
 - VectorPen
 - ViewList
 - ViewStacked
+- Vignette
 - Vimeo
 - VinylFill
 - Vinyl
