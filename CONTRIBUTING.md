@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- [node (version >=14)](https://nodejs.org/en/download/package-manager/#macos)
-- [yarn](https://yarnpkg.com/en/docs/install#mac-stable)
+- Node
+- Bun
 
 ## Fork and clone
 
@@ -22,13 +22,13 @@ git remote add upstream git@github.com:metonym/svelte-bootstrap-icons.git
 
 ## Install
 
-Install the project dependencies by running `yarn install`.
+Install the project dependencies by running `bun install`.
 
 ### Development workflow
 
 [svelvg](https://github.com/metonym/svelvg) converts SVG files from [bootstrap-icons](https://www.npmjs.com/package/bootstrap-icons) into Svelte components.
 
-Run `yarn prepack` to generate Svelte components from SVG source files.
+Run `bun build:lib` to generate Svelte components from SVG source files.
 
 The generated Svelte components are located in the `lib` folder, which is ignored by Git but published to NPM.
 
@@ -36,9 +36,9 @@ Documentation is auto-generated using the list of icon module names from the sou
 
 ### Developing
 
-First, run `yarn prepack` once to build the library.
+First, run `bun build:lib` once to build the library.
 
-Then, run `yarn dev` to preview the rendered icons.
+Then, run `bun dev` to preview the rendered icons.
 
 ### Submitting a Pull Request
 
