@@ -7,7 +7,16 @@
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./lib/index.d.ts",
+      "svelte": "./lib/index.js"
+    },
+    "./lib/*.svelte": {
+      "types": "./lib/*.svelte.d.ts",
+      "import": "./lib/*.svelte"
+    }
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -35,5 +44,6 @@
   ],
   "files": [
     "lib"
-  ]
+  ],
+  "type": "module"
 }
