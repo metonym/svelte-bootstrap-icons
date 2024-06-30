@@ -2,8 +2,7 @@
 
 ## Prerequisites
 
-- Node
-- Bun
+- [Bun](https://bun.sh/docs/installation)
 
 ## Fork and clone
 
