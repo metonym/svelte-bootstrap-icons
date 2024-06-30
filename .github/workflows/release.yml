@@ -11,9 +11,10 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
       - uses: actions/setup-node@v4
         with:
-          node-version: "18.x"
+          node-version: "20.x"
           registry-url: "https://registry.npmjs.org"
 
       - name: Publish package
@@ -23,6 +24,6 @@ jobs:
         # Currently, only npm supports publishing packages with provenance
         # https://docs.npmjs.com/generating-provenance-statements
         run: |
-          npm install --force
-          npm run build:lib
+          bun install
+          bun run build:lib
           npm publish --provenance --access public
