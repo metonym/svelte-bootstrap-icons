@@ -13,15 +13,17 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 ## Installation
 
 ```bash
-# Yarn
-yarn add -D svelte-bootstrap-icons
-
 # NPM
 npm i -D svelte-bootstrap-icons
 
 # pnpm
 pnpm i -D svelte-bootstrap-icons
 
+# Bun
+bun add -D svelte-bootstrap-icons
+
+# Yarn
+yarn add -D svelte-bootstrap-icons
 ```
 
 ## Usage
