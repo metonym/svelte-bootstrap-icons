@@ -8,11 +8,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v1
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build library
+        run: bun run build:lib
+
       - name: Build app
-        run: |
-          bun install
-          bun run build:lib
-          bun run build
+        run: bun run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
