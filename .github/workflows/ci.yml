@@ -9,7 +9,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
-      - run: |
-          bun install
-          bun build:lib
-          bun test
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build icons
+        run: bun run build:lib
+
+      - name: Run unit tests
+        run: bun run test
