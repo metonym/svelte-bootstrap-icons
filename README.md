@@ -14,16 +14,16 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/9a0e245df66248d59fadbbf007c0
 
 ```bash
 # NPM
-npm i -D svelte-bootstrap-icons
+npm i svelte-bootstrap-icons
 
 # pnpm
-pnpm i -D svelte-bootstrap-icons
+pnpm i svelte-bootstrap-icons
 
 # Bun
-bun add -D svelte-bootstrap-icons
+bun add svelte-bootstrap-icons
 
 # Yarn
-yarn add -D svelte-bootstrap-icons
+yarn add svelte-bootstrap-icons
 ```
 
 ## Usage
