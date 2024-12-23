@@ -17,13 +17,16 @@ jobs:
           node-version: "20.x"
           registry-url: "https://registry.npmjs.org"
 
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build icons
+        run: bun run build:lib
+
+      - name: Prune package
+        run: bunx culls --preserve=svelte
+
       - name: Publish package
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
-
-        # Currently, only npm supports publishing packages with provenance
-        # https://docs.npmjs.com/generating-provenance-statements
-        run: |
-          bun install
-          bun run build:lib
-          npm publish --provenance --access public
+        run: npm publish --provenance --access public
