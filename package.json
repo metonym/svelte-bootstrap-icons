@@ -36,7 +36,7 @@
     "type": "git",
     "url": "git+https://github.com/metonym/svelte-bootstrap-icons.git"
   },
-  "homepage": "https://github.com/metonym/svelte-bootstrap-icons",
+  "homepage": "https://metonym.github.io/svelte-bootstrap-icons/",
   "bugs": "https://github.com/metonym/svelte-bootstrap-icons/issues",
   "keywords": [
     "svelte",
