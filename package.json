@@ -24,12 +24,12 @@
     "test": "bun test"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "bootstrap-icons": "1.11.0",
     "culls": "^0.1.1",
-    "svelte": "^4.2.9",
+    "svelte": "^5.20.5",
     "svelvg": "latest",
-    "vite": "^5.4.14"
+    "vite": "^6.2.0"
   },
   "repository": {
     "type": "git",

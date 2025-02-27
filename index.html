@@ -7,11 +7,12 @@
   <body>
     <div id="svelte"></div>
     <script type="module">
+      import { mount } from "svelte";
       import IconLibrary from "svelvg/lib/IconLibrary.svelte";
       import * as icons from "./lib";
       import pkg from "./package.json";
 
-      const app = new IconLibrary({
+      mount(IconLibrary, {
         target: document.getElementById("svelte"),
         props: { pkg, icons },
       });
