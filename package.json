@@ -28,9 +28,9 @@
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "bootstrap-icons": "1.11.0",
     "culls": "^0.1.1",
-    "svelte": "^5.20.5",
+    "svelte": "^5.28.2",
     "svelvg": "latest",
-    "vite": "^6.2.0"
+    "vite": "^6.3.4"
   },
   "repository": {
     "type": "git",
