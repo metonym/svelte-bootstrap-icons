@@ -1,6 +1,6 @@
 # Icon Index
 
-> 2050 total icons
+> 2051 total icons
 
 ## Icons
 
@@ -236,6 +236,7 @@
 - BinocularsFill
 - BlockquoteLeft
 - BlockquoteRight
+- Bluesky
 - Bluetooth
 - BodyText
 - Book
