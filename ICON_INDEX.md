@@ -1,6 +1,6 @@
 # Icon Index
 
-> 2051 total icons
+> 2078 total icons
 
 ## Icons
 
@@ -67,9 +67,11 @@
 - Amd
 - Android
 - Android2
+- Anthropic
 - App
 - AppIndicator
 - Apple
+- AppleMusic
 - Archive
 - ArchiveFill
 - Arrow90degDown
@@ -223,6 +225,9 @@
 - BatteryCharging
 - BatteryFull
 - BatteryHalf
+- BatteryLow
+- Beaker
+- BeakerFill
 - Behance
 - Bell
 - BellFill
@@ -558,6 +563,7 @@
 - CircleFill
 - CircleHalf
 - CircleSquare
+- Claude
 - Clipboard
 - Clipboard2
 - Clipboard2Check
@@ -673,6 +679,7 @@
 - Crosshair2
 - CSquare
 - CSquareFill
+- Css
 - Cup
 - CupFill
 - CupHot
@@ -1074,6 +1081,10 @@
 - Fire
 - Flag
 - FlagFill
+- Flask
+- FlaskFill
+- FlaskFlorence
+- FlaskFlorenceFill
 - Floppy
 - Floppy2
 - Floppy2Fill
@@ -1092,6 +1103,7 @@
 - FolderSymlinkFill
 - FolderX
 - Fonts
+- ForkKnife
 - Forward
 - ForwardFill
 - Front
@@ -1125,9 +1137,13 @@
 - Globe
 - Globe2
 - GlobeAmericas
+- GlobeAmericasFill
 - GlobeAsiaAustralia
+- GlobeAsiaAustraliaFill
 - GlobeCentralSouthAsia
+- GlobeCentralSouthAsiaFill
 - GlobeEuropeAfrica
+- GlobeEuropeAfricaFill
 - Google
 - GooglePlay
 - GpuCard
@@ -1251,6 +1267,7 @@
 - InputCursorText
 - Instagram
 - Intersect
+- Javascript
 - Journal
 - JournalAlbum
 - JournalArrowDown
@@ -1297,6 +1314,8 @@
 - LayoutTextWindowReverse
 - LayoutThreeColumns
 - LayoutWtf
+- Leaf
+- LeafFill
 - LifePreserver
 - Lightbulb
 - LightbulbFill
@@ -1339,6 +1358,8 @@
 - MarkerTip
 - Mask
 - Mastodon
+- MeasuringCup
+- MeasuringCupFill
 - Medium
 - Megaphone
 - MegaphoneFill
@@ -1398,6 +1419,7 @@
 - Octagon
 - OctagonFill
 - OctagonHalf
+- Openai
 - Opencollective
 - OpticalAudio
 - OpticalAudioFill
@@ -1452,6 +1474,7 @@
 - People
 - PeopleFill
 - Percent
+- Perplexity
 - Person
 - PersonAdd
 - PersonArmsUp
@@ -1941,6 +1964,7 @@
 - TruckFront
 - TruckFrontFill
 - Tsunami
+- Tux
 - Tv
 - TvFill
 - Twitch
@@ -1955,6 +1979,7 @@
 - TypeH5
 - TypeH6
 - TypeItalic
+- Typescript
 - TypeStrikethrough
 - TypeUnderline
 - Ubuntu
@@ -1970,6 +1995,8 @@
 - UniversalAccess
 - UniversalAccessCircle
 - Unlock
+- Unlock2
+- Unlock2Fill
 - UnlockFill
 - Upc
 - UpcScan
