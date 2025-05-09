@@ -5,7 +5,7 @@
       "name": "svelte-bootstrap-icons",
       "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^5.0.3",
-        "bootstrap-icons": "1.12.1",
+        "bootstrap-icons": "1.13.0",
         "culls": "^0.1.1",
         "svelte": "^5.28.2",
         "svelvg": "latest",
@@ -130,7 +130,7 @@
 
     "axobject-query": ["axobject-query@4.1.0", "", {}, "sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ=="],
 
-    "bootstrap-icons": ["bootstrap-icons@1.12.1", "", {}, "sha512-ekwupjsteHQmgGV+haQ0nNMoSyKCbJj5ou+06vFzb9uR2/bwN9isNEgXBaQzcT+fLzhKS3OaBNpwz8XdZlIgYQ=="],
+    "bootstrap-icons": ["bootstrap-icons@1.13.0", "", {}, "sha512-GrQFQHRK2ZPeid7niIAaQb0bJhWB0P8aHAztp9dN+p+4eIX/DJxahLlt0jhov1ZSGfvF++LrltUmUC/eQ/B67A=="],
 
     "clsx": ["clsx@2.1.1", "", {}, "sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA=="],
 
